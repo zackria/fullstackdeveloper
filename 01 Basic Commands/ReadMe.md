@@ -257,6 +257,10 @@ Exercise
 
 ⌘ + r = Refresh browser
 
+space bar =  Scroll Down browser
+
+shift + space bar = Scroll Up  browser
+
 ctrl + f4 = Close tab
 
 alt + f4 = Quit Application
@@ -268,6 +272,7 @@ alt + tab = switch application
 ctrl + Backspace = Delete Entire Word
 
 f5 = Refresh browser
+
 
 #### :memo:  Improve your typing speed, it Matters. You should have typing speed of 80 to 120 Words Per minute to be highly productive. Use more keyboard and less mouse. Don't Look at the keyboard while typing
 
