@@ -26,3 +26,25 @@ Sessions Planned
 17. Electron
 18. Cloud (AWS, Google Cloud, Azure, Heroku)
 19. Capstone Project (Mobile Application / Desktop Application / Gaming Website )
+
+
+---
+
+:anchor: Tools link
+
+- [atom.io](https://atom.io/)
+- [Amazon Corretto](https://aws.amazon.com/corretto/)
+- [Git Hub](https://github.com/)
+- [Git SCM](https://git-scm.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Nodejs](https://nodejs.org/en/)
+- [Spring Framework](https://spring.io/)
+- [Android Developer](https://developer.android.com/)
+- [Vysor.io](https://www.vysor.io/)
+- [IntelliJ](https://www.jetbrains.com/idea/)
+- [Eclipse](https://www.eclipse.org/downloads/)
+- [MacOS iTerm2](https://iterm2.com/)
+- [Sublime Text](https://www.sublimetext.com)
+
+
+---
