@@ -39,64 +39,64 @@
 
 `javac Constructor.java`
 
-`javac DataTypes.java`
-
-`javac DataTypesMinMax.java`
-
-`javac AssignmentOperators.java`
-
-`javac AssignmentOperators01.java`
-
-`javac AssignmentOperators02.java`
-
-`javac AssignmentOperators03.java`
-
-`javac AssignmentOperators04.java`
-
-`javac AssignmentOperators05.java`
-
-`javac ShiftOperators.java`
-
-`javac ComparisonOperators.java`
-
-`javac ComparisonOperators01.java`
-
-`javac ComparisonOperators02.java`
-
-`javac ComparisonOperators03.java`
-
-`javac LogicalOperators.java`
-
-`javac JavaArrays.java`
-
 `java Constructor`
+
+`javac DataTypes.java`
 
 `java DataTypes`
 
+`javac DataTypesMinMax.java`
+
 `java DataTypesMinMax`
+
+`javac AssignmentOperators.java`
 
 `java AssignmentOperators`
 
+`javac AssignmentOperators01.java`
+
 `java AssignmentOperators01`
+
+`javac AssignmentOperators02.java`
 
 `java AssignmentOperators02`
 
+`javac AssignmentOperators03.java`
+
 `java AssignmentOperators03`
+
+`javac AssignmentOperators04.java`
 
 `java AssignmentOperators04`
 
+`javac AssignmentOperators05.java`
+
 `java AssignmentOperators05`
+
+`javac ShiftOperators.java`
 
 `java ShiftOperators`
 
+`javac ComparisonOperators.java`
+
 `java ComparisonOperators`
+
+`javac ComparisonOperators01.java`
 
 `java ComparisonOperators01`
 
+`javac ComparisonOperators02.java`
+
 `java ComparisonOperators02`
+
+`javac ComparisonOperators03.java`
 
 `java ComparisonOperators03`
 
+`javac LogicalOperators.java`
+
 `java LogicalOperators`
+
+`javac JavaArrays.java`
 
 `java JavaArrays`
