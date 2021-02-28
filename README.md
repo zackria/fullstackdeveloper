@@ -1,9 +1,9 @@
 # Full Stack Developer Training
 Full Stack Developer Training
 
--Technology Training for Beginners to Intermediate
--Tech includes Java, Typescript, HTML5, CSS3, Angular 9, Spring Boot, Microservices, Micro Testing, Selenium, Cucumber, Karate
--Weekly 2hr Teams Meetings
+- Technology Training for Beginners to Intermediate
+- Tech includes Java, Typescript, HTML5, CSS3, Angular 9, Spring Boot, Microservices, Micro Testing, Selenium, Cucumber, Karate
+- Weekly 2hr Teams Meetings
 
 
 Sessions Planned
