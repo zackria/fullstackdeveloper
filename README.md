@@ -40,11 +40,15 @@ Sessions Planned
 - [Nodejs](https://nodejs.org/en/)
 - [Spring Framework](https://spring.io/)
 - [Android Developer](https://developer.android.com/)
+- [Android Studio](https://developer.android.com/studio)
 - [Vysor.io](https://www.vysor.io/)
 - [IntelliJ](https://www.jetbrains.com/idea/)
 - [Eclipse](https://www.eclipse.org/downloads/)
 - [MacOS iTerm2](https://iterm2.com/)
 - [Sublime Text](https://www.sublimetext.com)
-
+- [Swagger.io](https://swagger.io/)
+- [SOAPUI](https://www.soapui.org/)
+- [Postman](https://www.postman.com/)
+- [ElectronJS](https://www.electronjs.org/)
 
 ---
