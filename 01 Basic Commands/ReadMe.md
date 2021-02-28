@@ -30,7 +30,7 @@ Click `(⊞ Win )` key Type `cmd`
 
 #### 9) Delete   "copiedfile.txt" `del copiedfile.txt`
 
-#### 10) Create and Delete a directory
+#### 10) Create and Delete a directory fullfolder
 `mkdir fullfolder`
 
 `rmdir fullfolder /S /Q`
@@ -84,7 +84,7 @@ Click Launchpad + Type `Terminal` Click to Open
 
 #### 9) Delete   "copiedfile.txt" `rm copiedfile.txt`
 
-#### 10) Create and Delete a directory
+#### 10) Create and Delete a directory fullfolder
 `mkdir fullfolder`
 
 `rm -rf fullfolder`
@@ -135,7 +135,7 @@ Click Activities and Launch Terminal
 
 #### 9) Delete   "copiedfile.txt" `rm copiedfile.txt`
 
-#### 10) Create and Delete a directory
+#### 10) Create and Delete a directory fullfolder
 `mkdir fullfolder`
 
 `rm -rf fullfolder`
@@ -244,6 +244,17 @@ Exercise
 `command ⌘ + c`
 `command ⌘ + ⌥ option + v`
 
+### Other Shortcuts
+⌘ + w = Close tab
+⌘ + q = Quit Application
+⌘ + 1 = Navigate to first tab
+⌘ + Tab = Switch application
+⌘ + Backspace = Delete Entire Word
+ctrl + f4 = Close tab
+alt + f4 = Quit Application
+ctrl + 1 = Navigate to first table
+alt + tab = switch application
+ctrl + Backspace = Delete Entire Word
 
 #### :memo:  Improve your typing speed, it Matters. You should have typing speed of 80 to 120 Words Per minute to be highly productive. Use more keyboard and less mouse. Don't Look at the keyboard while typing
 
