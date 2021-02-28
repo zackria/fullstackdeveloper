@@ -43,7 +43,7 @@ Click `(⊞ Win )` key Type `cmd`
 #### 12) Find the ip details of the machine
 `ipconfig /all`
 
-#### :memo: Look for inet
+#### :memo: Look for inet / IPv4 Address
 
 #### 13) Find the hostname of the machine or pc or vm
 `hostname`
@@ -250,11 +250,13 @@ Exercise
 ⌘ + 1 = Navigate to first tab
 ⌘ + Tab = Switch application
 ⌘ + Backspace = Delete Entire Word
+⌘ + r = Refresh browser
 ctrl + f4 = Close tab
 alt + f4 = Quit Application
 ctrl + 1 = Navigate to first table
 alt + tab = switch application
 ctrl + Backspace = Delete Entire Word
+f5 = Refresh browser
 
 #### :memo:  Improve your typing speed, it Matters. You should have typing speed of 80 to 120 Words Per minute to be highly productive. Use more keyboard and less mouse. Don't Look at the keyboard while typing
 
