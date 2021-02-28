@@ -18,8 +18,15 @@
  ---
  Exercise
  - [x] Attend the class
- - [ ] 1) Create, Compile and Execute  FirstCharacter.java
- - [ ] 2) Create, Compile and Execute  OtherCharacter.java
- - [ ] 3) Create, Compile and Execute  ClassName.java
- - [ ] 4) Create, Compile and Execute  ClassMembers.java
- - [ ] 5) Create, Compile and Execute  ClassConstants.java
+ - [ ] 1) Create, Compile and Execute  Constructor.java
+ - [ ] 2) Create, Compile and Execute  DataTypes.java
+ - [ ] 3) Create, Compile and Execute  AssignmentOperators.java
+ - [ ] 4) Create, Compile and Execute  AssignmentOperators01.java
+ - [ ] 5) Create, Compile and Execute  AssignmentOperators02.java
+ - [ ] 6) Create, Compile and Execute  AssignmentOperators03.java
+ - [ ] 7) Create, Compile and Execute  AssignmentOperators04.java
+ - [ ] 8) Create, Compile and Execute  AssignmentOperators05.java
+ - [ ] 9) Create, Compile and Execute  ShiftOperators.java
+ - [ ] 10) Create, Compile and Execute  ComparisonOperators.java
+ - [ ] 11) Create, Compile and Execute  LogicalOperators.java
+ - [ ] 12) Create, Compile and Execute  JavaArrays.java
