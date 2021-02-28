@@ -246,16 +246,27 @@ Exercise
 
 ### Other Shortcuts
 ⌘ + w = Close tab
+
 ⌘ + q = Quit Application
+
 ⌘ + 1 = Navigate to first tab
+
 ⌘ + Tab = Switch application
+
 ⌘ + Backspace = Delete Entire Word
+
 ⌘ + r = Refresh browser
+
 ctrl + f4 = Close tab
+
 alt + f4 = Quit Application
+
 ctrl + 1 = Navigate to first table
+
 alt + tab = switch application
+
 ctrl + Backspace = Delete Entire Word
+
 f5 = Refresh browser
 
 #### :memo:  Improve your typing speed, it Matters. You should have typing speed of 80 to 120 Words Per minute to be highly productive. Use more keyboard and less mouse. Don't Look at the keyboard while typing
