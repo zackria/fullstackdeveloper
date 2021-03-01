@@ -1,8 +1,8 @@
 const MongoClient = require('mongodb').MongoClient;
-//const url = 'mongodb://localhost:27017';
-//mongodb+srv://zack:FK3FVnCIZl2ntGLE@cluster0.adujg.mongodb.net/test
+const url = 'mongodb://localhost:27017';
+//mongodb+srv://<username>:<password>@<servername>/test
 
-const url = "mongodb+srv://zack:FK3FVnCIZl2ntGLE@cluster0.adujg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+//const url = "mongodb+srv://<username>:<password>@<servername>/myFirstDatabase?retryWrites=true&w=majority";
 
 // added { useNewUrlParser: true }
 MongoClient.connect(url,
