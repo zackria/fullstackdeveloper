@@ -20,6 +20,10 @@ Click `(⊞ Win )` key Type `cmd`
 
 #### 4) Create a empty file name as "tempfile.txt" `nul > tempfile.txt`
 
+or
+
+`echo > tempfile.txt` 
+
 #### 5) List files in the folder `dir`
 
 #### 6) Rename file "tempfile.txt"  as "renamefile.txt" `move tempfile.txt renamefile.txt`
@@ -257,6 +261,8 @@ Exercise
 
 ⌘ + r = Refresh browser
 
+⌘ + shift + 4 = screenshot in Mac
+
 space bar =  Scroll Down browser
 
 shift + space bar = Scroll Up  browser
@@ -272,6 +278,8 @@ alt + tab = switch application
 ctrl + Backspace = Delete Entire Word
 
 f5 = Refresh browser
+
+win + shift + s = Screenshot in Windows
 
 
 #### :memo:  Improve your typing speed, it Matters. You should have typing speed of 80 to 120 Words Per minute to be highly productive. Use more keyboard and less mouse. Don't Look at the keyboard while typing
