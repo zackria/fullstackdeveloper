@@ -28,6 +28,10 @@ or
 
 #### 6) Rename file "tempfile.txt"  as "renamefile.txt" `move tempfile.txt renamefile.txt`
 
+or
+
+`ren tempfile.txt renamefile.txt`
+
 #### 7) List files in the folder `dir`
 
 #### 8) Copy file  "renamefile.txt" as "copiedfile.txt" `copy renamefile.txt copiedfile.txt`
