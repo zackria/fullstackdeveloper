@@ -7,5 +7,8 @@ public class ClassConstants
 
         System.out.println("MIN_VALUE: " + MIN_VALUE);
         System.out.println("MAX_VALUE: " + MAX_VALUE);
+
+        //MIN_VALUE = 20;
+
     }
 }
