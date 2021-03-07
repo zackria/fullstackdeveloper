@@ -253,6 +253,7 @@ Exercise
 `command ⌘ + ⌥ option + v`
 
 ### Other Shortcuts
+
 `⌘ + w` = Close tab (MacOS)
 
 `⌘ + q` = Quit Application (MacOS)
