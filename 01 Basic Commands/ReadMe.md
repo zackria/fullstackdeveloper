@@ -253,41 +253,41 @@ Exercise
 `command ⌘ + ⌥ option + v`
 
 ### Other Shortcuts
-⌘ + w = Close tab
+`⌘ + w` = Close tab (MacOS)
 
-⌘ + q = Quit Application
+`⌘ + q` = Quit Application (MacOS)
 
-⌘ + 1 = Navigate to first tab
+`⌘ + 1` = Navigate to first tab (MacOS)
 
-⌘ + Tab = Switch application
+`⌘ + Tab` = Switch application (MacOS)
 
-⌘ + Shift + Tab = Switch application Reverse Order
+`⌘ + Shift + Tab` = Switch application Reverse Order (MacOS)
 
-⌘ + Backspace = Delete Entire Word
+`⌘ + Backspace` = Delete Entire Word (MacOS)
 
-⌘ + r = Refresh browser
+`⌘ + r` = Refresh browser (MacOS)
 
-⌘ + shift + 4 = screenshot in Mac
+`⌘ + shift + 4` = screenshot in Mac (MacOS)
 
-space bar =  Scroll Down browser
+`space bar` =  Scroll Down browser (MacOS)
 
-shift + space bar = Scroll Up  browser
+`shift + space bar` = Scroll Up  browser (MacOS)
 
-ctrl + f4 = Close tab
+`ctrl + f4` = Close tab (Windows)
 
-alt + f4 = Quit Application
+`alt + f4` = Quit Application (Windows)
 
-ctrl + 1 = Navigate to first table
+`ctrl + 1` = Navigate to first table (Windows)
 
-alt + Tab = Switch application
+`alt + Tab` = Switch application (Windows)
 
-alt + Shift + Tab = Switch application Reverse Order
+`alt + Shift + Tab` = Switch application Reverse Order (Windows)
 
-ctrl + Backspace = Delete Entire Word
+`ctrl + Backspace` = Delete Entire Word (Windows)
 
-f5 = Refresh browser
+`f5` = Refresh browser (Windows)
 
-win + shift + s = Screenshot in Windows
+`win + shift + s` = Screenshot in Windows (Windows)
 
 
 #### :memo:  Improve your typing speed, it Matters. You should have typing speed of 80 to 120 Words Per minute to be highly productive. Use more keyboard and less mouse. Don't Look at the keyboard while typing
