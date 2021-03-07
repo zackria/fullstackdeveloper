@@ -268,6 +268,8 @@ Exercise
 
 `⌘ + r` = Refresh browser (MacOS)
 
+`⌘ + shift + r` = Refresh browser cachce (MacOS)
+
 `⌘ + shift + 4` = screenshot in Mac (MacOS)
 
 `space bar` =  Scroll Down browser (MacOS)
@@ -287,6 +289,8 @@ Exercise
 `ctrl + Backspace` = Delete Entire Word (Windows)
 
 `f5` = Refresh browser (Windows)
+
+`ctrl + f5 ` = Refresh browser cache (Windows)
 
 `win + shift + s` = Screenshot in Windows (Windows)
 
