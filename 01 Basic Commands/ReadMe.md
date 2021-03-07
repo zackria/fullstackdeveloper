@@ -261,6 +261,8 @@ Exercise
 
 ⌘ + Tab = Switch application
 
+⌘ + Shift + Tab = Switch application Reverse Order
+
 ⌘ + Backspace = Delete Entire Word
 
 ⌘ + r = Refresh browser
@@ -277,7 +279,9 @@ alt + f4 = Quit Application
 
 ctrl + 1 = Navigate to first table
 
-alt + tab = switch application
+alt + Tab = Switch application
+
+alt + Shift + Tab = Switch application Reverse Order
 
 ctrl + Backspace = Delete Entire Word
 
