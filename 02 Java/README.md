@@ -46,6 +46,18 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/amazon-corretto-15.jdk/Conte
 export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=${CLASSPATH}:.:`
 
+or
+
+`sudo nano ~/.zshenv
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/amazon-corretto-15.jdk/Contents/Home"
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=${CLASSPATH}:.:`
+
+### :note:  May required to run chmod `sudo chmod 755 .bashrc`  or `sudo chmod 755 .zshenv`
+
+### 3) Launch Terminal and execute the bash profile
+`. ~/.bash_profile`
+
 #### 3) Launch Terminal and test the environment variables
 `echo $JAVA_HOME`
 `echo $PATH`
