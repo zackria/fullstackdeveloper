@@ -70,8 +70,21 @@ export JAVA_HOME="/usr/lib/jvm/java-15-amazon-corretto/"
 export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=${CLASSPATH}:.:`
 
+or
+
+`sudo nano ~/.bashrc
+export JAVA_HOME="/usr/lib/jvm/java-15-amazon-corretto/"
+export PATH=$JAVA_HOME/bin:$PATH
+export CLASSPATH=${CLASSPATH}:.:`
+
+### :note:  May required to run chmod `sudo chmod 755 .bashrc`  or `sudo chmod 755 .bash_profile`
+
 ### 3) Launch Terminal and execute the bash profile
 `. ~/.bash_profile`
+
+or
+
+`. ~/.bashrc`
 
 #### 4) Test the environment variables
 `echo $JAVA_HOME`
