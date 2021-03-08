@@ -66,7 +66,7 @@ export CLASSPATH=${CLASSPATH}:.:`
 #### :memo:  For zsh shell, we can put the environment variables at ~/.zshenv or ~/.zshrc.
 #### 2) Add Environment Variables, Set JAVA_HOME, PATH, CLASSPATH
 `sudo nano ~/.bash_profile
-export JAVA_HOME="/Library/Java/JavaVirtualMachines/amazon-corretto-15.jdk/Contents/Home"
+export JAVA_HOME="/usr/lib/jvm/java-15-amazon-corretto/"
 export PATH=$JAVA_HOME/bin:$PATH
 export CLASSPATH=${CLASSPATH}:.:`
 
