@@ -9,10 +9,6 @@
 - ##### Creating an Object
 - ##### new
 
- 
- ---
-
- [https://atom.io/packages/terminal-plus](https://atom.io/packages/terminal-plus)
 
  ---
 
