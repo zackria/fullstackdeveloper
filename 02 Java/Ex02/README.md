@@ -29,3 +29,42 @@
  - [ ] 3) Create, Compile and Execute  ClassName.java
  - [ ] 4) Create, Compile and Execute  ClassMembers.java
  - [ ] 5) Create, Compile and Execute  ClassConstants.java
+ - [ ] 6) Create, Compile and Execute  ClassInstantiation.java
+ - [ ] 7) Create, Compile and Execute  FirstInterface.java
+ - [ ] 8) Create, Compile and Execute  FirstEnum.java
+
+
+
+ ---
+
+`javac FirstCharacter.java`
+
+`java FirstCharacter`
+
+`javac OtherCharacter.java`
+
+`java OtherCharacter`
+
+`javac ClassName.java`
+
+`java ClassName`
+
+`javac ClassMembers.java`
+
+`java ClassMembers`
+
+`javac ClassConstants.java`
+
+`java ClassConstants`
+
+`javac ClassInstantiation.java`
+
+`java ClassInstantiation`
+
+`javac FirstInterface.java`
+
+`java FirstInterface`
+
+`javac FirstEnum.java`
+
+`java FirstEnum`

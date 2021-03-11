@@ -2,6 +2,10 @@ public class OtherCharacter
 {
     public static void main(String args[])
     {
+      //Other Characters can be a-z lowercase
+      //Other Characters can be A-Z UpperCase
+      //Other Characters can contain $ and _
+      //Other Characters can contain numbers 0 to 9
       String otherCharacter = "Valid otherCharacter";
 
       String o$therCharacter = "Valid o$therCharacter";
