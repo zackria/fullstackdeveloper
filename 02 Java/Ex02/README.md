@@ -73,5 +73,3 @@
 `javac EnumExample.java`
 
 `java EnumExample`
-
-`java FirstEnum`
