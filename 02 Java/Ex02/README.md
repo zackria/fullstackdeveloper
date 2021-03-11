@@ -32,6 +32,7 @@
  - [ ] 6) Create, Compile and Execute  ClassInstantiation.java
  - [ ] 7) Create, Compile and Execute  FirstInterface.java
  - [ ] 8) Create, Compile and Execute  FirstEnum.java
+ - [ ] 9) Create, Compile and Execute  EnumExample.java
 
 
 
@@ -66,5 +67,11 @@
 `java FirstInterface`
 
 `javac FirstEnum.java`
+
+`java FirstEnum`
+
+`javac EnumExample.java`
+
+`java EnumExample`
 
 `java FirstEnum`

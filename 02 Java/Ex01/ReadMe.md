@@ -69,3 +69,16 @@ Click  `(⊞ Win/(⌘)) Key` + Type `Terminal`
 or
 
 Click activites + Type `Terminal` Click to Open
+
+
+ ---
+
+ #### Atom Packages
+
+ [https://atom.io/packages/platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
+
+ [https://atom.io/packages/script](https://atom.io/packages/script)
+
+ [https://atom.io/packages/atom-ide-ui](https://atom.io/packages/atom-ide-ui)
+
+ ---

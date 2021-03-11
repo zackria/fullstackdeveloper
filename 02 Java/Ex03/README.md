@@ -14,6 +14,10 @@
 
  [https://atom.io/packages/platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
 
+ [https://atom.io/packages/script](https://atom.io/packages/script)
+
+ [https://atom.io/packages/atom-ide-ui](https://atom.io/packages/atom-ide-ui)
+
  ---
 
  ## :bulb: Tips
