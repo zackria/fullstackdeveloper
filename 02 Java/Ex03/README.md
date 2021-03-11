@@ -9,6 +9,10 @@
 - ##### Creating an Object
 - ##### new
 
+ 
+ ---
+
+ [https://atom.io/packages/platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
 
  ---
 
