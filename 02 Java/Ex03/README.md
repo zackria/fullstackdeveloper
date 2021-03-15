@@ -58,6 +58,9 @@
 
 ---
 
+`javap java.lang.Byte`
+
+
 `javac Constructor.java`
 
 `java Constructor`
