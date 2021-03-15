@@ -20,15 +20,15 @@
 
  ### Atom Snippets (Atom-Snippets or File -- Snippets)
 
-`
- '.source.java':
 
-  'SysOut':
+ `'.source.java':`
 
-    'prefix': 'sysout'
-    
-    'body': 'System.out.println($1); '
-`
+  `'SysOut':`
+
+    `'prefix': 'sysout'`
+
+    `'body': 'System.out.println($1); '`
+
  ---
 
  ## :bulb: Tips
