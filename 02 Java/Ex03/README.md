@@ -18,6 +18,14 @@
 
  [https://atom.io/packages/atom-ide-ui](https://atom.io/packages/atom-ide-ui)
 
+ ### Atom Snippets (Atom-Snippets or File -- Snippets)
+
+`
+ '.source.java':
+  'SysOut':
+    'prefix': 'sysout'
+    'body': 'System.out.println($1); '
+`
  ---
 
  ## :bulb: Tips
