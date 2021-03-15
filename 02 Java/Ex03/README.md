@@ -22,8 +22,11 @@
 
 `
  '.source.java':
+
   'SysOut':
+
     'prefix': 'sysout'
+    
     'body': 'System.out.println($1); '
 `
  ---
