@@ -18,6 +18,8 @@
 
  [https://atom.io/packages/atom-ide-ui](https://atom.io/packages/atom-ide-ui)
 
+ [https://atom.io/packages/ide-java](https://atom.io/packages/ide-java)
+
  ### Atom Snippets (Atom-Snippets or File -- Snippets)
 
 
@@ -128,3 +130,7 @@
 `javac JavaArrays.java`
 
 `java JavaArrays`
+
+`javac StaticExample.java`
+
+`java StaticExample`
