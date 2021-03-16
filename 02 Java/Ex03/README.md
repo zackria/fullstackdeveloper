@@ -20,6 +20,22 @@
 
  [https://atom.io/packages/ide-java](https://atom.io/packages/ide-java)
 
+
+### Command to install if there is an error installing via the User Interface
+
+`apm config set strict-ssl false`
+
+`apm update`
+
+`apm install platformio-ide-terminal`
+
+`apm install script`
+
+`apm install atom-ide-ui`
+
+`apm install ide-java`
+
+
  ### Atom Snippets (Atom-Snippets or File -- Snippets)
 
 
