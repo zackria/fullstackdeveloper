@@ -16,6 +16,10 @@ class ComparisonOperators02 {
       System.out.println(" myObject2 instanceof ChildClass  : ");
       System.out.println(myObject2 instanceof ChildClass);
 
+      ParentClass myObject3 = new ParentClass();
+      ParentClass myObject4 = new ParentClass();
+      System.out.println(myObject3.equals(myObject4));
+
   }
 }
 
