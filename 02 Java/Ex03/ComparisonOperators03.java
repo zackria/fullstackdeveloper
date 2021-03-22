@@ -46,5 +46,15 @@ class ComparisonOperators03 {
       System.out.println("Double.compare(doubleVariable3, doubleVariable4) : " +
         Double.compare(doubleVariable3, doubleVariable4)
       ); // 0 if equal, negative if var1 less than var2, positive if var1 greater than var2
+
+      java.text.DecimalFormat df = new java.text.DecimalFormat("##.#");
+
+      Double dvar1 = Double.valueOf(df.format(doubleVariable1));
+      Double dvar2 = Double.valueOf(df.format(doubleVariable2));
+      System.out.println(Double.compare(dvar1, dvar2));
+
+      //0 it is equal
+      //negative then doubleVariable1 is less than doubleVariable2
+      //positive then doubleVariable1 is greater than doubleVariable2
   }
 }
