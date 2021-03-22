@@ -73,9 +73,11 @@
  - [ ] 18) Create, Compile and Execute  ThisExample.java
  - [ ] 19) Create, Compile and Execute  SuperExample.java
  - [ ] 20) Create, Compile and Execute  SuperCallExample.java
- - [ ] 21) Create, Compile and Execute  AccessSpecifier.java
+ - [ ] 21) Create, Compile and Execute  AccessSpecifier.java, InsidePackageAccess.java, OutsidePackageAccess.java, OutsidePackageChildAccess.java
  - [ ] 22) Create, Compile and Execute  ExceptionsExample.java
  - [ ] 23) Create, Compile and Execute  ThrowableExample.java
+ - [ ] 24) Create, Compile and Execute  SwitchExample.java
+
 ---
 
 `javac -d . com/cgi/fullstack/FirstPackage.java`
@@ -169,10 +171,26 @@
 
 `java SuperCallExample`
 
-`javac AccessSpecifier.java`
+`javac -d . com/cgi/fullstack/AccessSpecifier.java`
 
-`java AccessSpecifier`
+`javac -d . com/cgi/fullstack/InsidePackageAccess.java`
+
+`java -cp . com.cgi.fullstack.AccessSpecifier`
+
+`java -cp . com.cgi.fullstack.InsidePackageAccess`
+
+`javac OutsidePackageAccess.java`
+
+`java OutsidePackageAccess`
+
+`javac OutsidePackageChildAccess.java`
+
+`java OutsidePackageChildAccess`
 
 `javac ThrowableExample.java`
 
 `java ThrowableExample`
+
+`javac SwitchExample.java`
+
+`java SwitchExample`
