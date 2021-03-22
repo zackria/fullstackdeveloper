@@ -72,6 +72,10 @@
  - [ ] 17) Create, Compile and Execute  ExecutionOrder.java
  - [ ] 18) Create, Compile and Execute  ThisExample.java
  - [ ] 19) Create, Compile and Execute  SuperExample.java
+ - [ ] 20) Create, Compile and Execute  SuperCallExample.java
+ - [ ] 21) Create, Compile and Execute  AccessSpecifier.java
+ - [ ] 22) Create, Compile and Execute  ExceptionsExample.java
+ - [ ] 23) Create, Compile and Execute  ThrowableExample.java
 ---
 
 `javac -d . com/cgi/fullstack/FirstPackage.java`
@@ -160,3 +164,15 @@
 `javac SuperExample.java`
 
 `java SuperExample`
+
+`javac SuperCallExample.java`
+
+`java SuperCallExample`
+
+`javac AccessSpecifier.java`
+
+`java AccessSpecifier`
+
+`javac ThrowableExample.java`
+
+`java ThrowableExample`
