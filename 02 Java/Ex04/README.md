@@ -60,17 +60,18 @@
  - [ ] 5) Create, Compile and Execute  StaticPackageAccessAll.java
  - [ ] 6) Create, Compile and Execute  LocalVariable.java
  - [ ] 7) Create, Compile and Execute  ClassVariable.java
- - [ ] 8) Create, Compile and Execute  ExecutionOrder.java
- - [ ] 9) Create, Compile and Execute  ExecutionOrder.java
- - [ ] 10) Create, Compile and Execute  AssignmentOperators05.java
- - [ ] 11) Create, Compile and Execute  ShiftOperators.java
- - [ ] 12) Create, Compile and Execute  ComparisonOperators.java
- - [ ] 13) Create, Compile and Execute  ComparisonOperators01.java
- - [ ] 14) Create, Compile and Execute  ComparisonOperators02.java
- - [ ] 15) Create, Compile and Execute  ComparisonOperators03.java
- - [ ] 16) Create, Compile and Execute  LogicalOperators.java
- - [ ] 17) Create, Compile and Execute  JavaArrays.java
-
+ - [ ] 8) Create, Compile and Execute  InheritanceExample.java
+ - [ ] 9) Create, Compile and Execute  FinalClass.java
+ - [ ] 10) Create, Compile and Execute  PolymorphismExample.java
+ - [ ] 11) Create, Compile and Execute  MethodOverLoad.java
+ - [ ] 12) Create, Compile and Execute  MethodArguments.java
+ - [ ] 13) Create, Compile and Execute  CovariantReturnType.java
+ - [ ] 14) Create, Compile and Execute  AbstractClassExample.java& AbstractExecute
+ - [ ] 15) Create, Compile and Execute  InterfaceExample.java 
+ - [ ] 16) Create, Compile and Execute  ConstructorDemo.java
+ - [ ] 17) Create, Compile and Execute  ExecutionOrder.java
+ - [ ] 18) Create, Compile and Execute  ThisExample.java
+ - [ ] 19) Create, Compile and Execute  SuperExample.java
 ---
 
 `javac -d . com/cgi/fullstack/FirstPackage.java`
@@ -116,3 +117,46 @@
 
 `java ExecutionOrder`
 
+`javac InheritanceExample.java`
+
+`java InheritanceExample`
+
+`javac FinalClass.java`
+
+`javac PolymorphismExample.java`
+
+`java PolymorphismExample`
+
+`javac MethodOverLoad.java`
+
+`java MethodOverLoad`
+
+`javac MethodArguments.java`
+
+`java MethodArguments`
+
+
+`javac CovariantReturnType.java`
+
+`java CovariantReturnType`
+
+`javac AbstractClassExample.java`
+
+`java AbstractExecute `
+
+`javac InterfaceExample.java`
+
+`java InterfaceExample`
+
+`javac ConstructorDemo.java`
+
+`java ConstructorDemo`
+
+`javac ThisExample.java`
+
+`java ThisExample`
+
+
+`javac SuperExample.java`
+
+`java SuperExample`
