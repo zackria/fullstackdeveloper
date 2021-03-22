@@ -1,22 +1,27 @@
 class JavaArrays
 {
-    public static void main(String[] args) {
-       String [] cars = {"Suzuki", "Audi"};
-       int [] myArray = {10, 20};
+  public static void main(String[] args) {
+     String cars[] = {"Suzuki", "Honda"};
+     int intArray[] = {10, 20};
+     System.out.println(cars[0]);
+     System.out.println(cars[1]);
 
-       System.out.println(cars[1]);
-       System.out.println(myArray[1]);
+     System.out.println(intArray[0]);
+     System.out.println(intArray[1]);
 
-       String newCars[] = new String[2];
-       newCars [0] = "Suzuki";
-       newCars [1] =  "Audi";
+     String newcars[] = new String[2];
+     newcars[0] = "Audi";
+     newcars[1] = "Tesla";
 
-       System.out.println(newCars[0]);
+     System.out.println(newcars[0]);
+     System.out.println(newcars[1]);
 
-       Integer myArrayInt[] = new Integer[2];
-       myArrayInt [0] = 10;
-       myArrayInt [1] = 20;
+     Integer myArrayInt[] = new Integer[2];
+     myArrayInt[0]= 30;
+     myArrayInt[1] = 40;
+     System.out.println(myArrayInt[0]);
+     System.out.println(myArrayInt[1]);
 
-       System.out.println(myArrayInt[0]);
-    }
+     System.out.println(myArrayInt.length);
+  }
 }

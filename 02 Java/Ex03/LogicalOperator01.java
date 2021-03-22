@@ -1,17 +1,32 @@
 class LogicalOperator01 {
   public static void main(String[] args) {
-     int a = 10;
-     int b = 11;
+    boolean boolVar1 = false;
+    boolean boolVar2 = false;
 
-     System.out.println("Value of a: "+a);
-     System.out.println("Value of b: "+b);
-     // System.out.println(a--);
-     // System.out.println(b--);
-     // System.out.println("Value of a: "+a);
-     // System.out.println("Value of b: "+b);
-     System.out.println((a--)>9 || (b--) <12);
+    System.out.println("Value of boolVar1: "+boolVar1);
+    System.out.println("Value of boolVar2: "+boolVar2);
+    System.out.println("Boolean AND  boolvar1 & boolvar2: "+ (boolVar1 & boolVar2) );
 
-     System.out.println("Value of a: "+a);
-     System.out.println("Value of b: "+b);
+    boolVar1 = false;
+    boolVar2 = true;
 
+    System.out.println("Value of boolVar1: "+boolVar1);
+    System.out.println("Value of boolVar2: "+boolVar2);
+    System.out.println("Boolean AND  boolvar1 & boolvar2: "+ (boolVar1 & boolVar2) );
+
+
+    boolVar1 = true;
+    boolVar2 = false;
+
+    System.out.println("Value of boolVar1: "+boolVar1);
+    System.out.println("Value of boolVar2: "+boolVar2);
+    System.out.println("Boolean AND  boolvar1 & boolvar2: "+ (boolVar1 & boolVar2) );
+
+    boolVar1 = true;
+    boolVar2 = true;
+
+    System.out.println("Value of boolVar1: "+boolVar1);
+    System.out.println("Value of boolVar2: "+boolVar2);
+    System.out.println("Boolean AND  boolvar1 & boolvar2: "+ (boolVar1 & boolVar2) );
+  }
 }

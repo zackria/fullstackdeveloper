@@ -1,36 +1,31 @@
 class LogicalOperator04 {
   public static void main(String[] args) {
+      int a = 10;
+      int b = 20;
 
-  		//XOR
-  		//The XOR logical operation, or exclusive or, 
-  		//takes two boolean operands and returns true if 
-  		//and only if the operands are different.
+      System.out.println("Value of int a: "+a );
+      System.out.println("Value of int b: "+b );
 
+      System.out.println(a<11);
+      System.out.println(b>11);
 
-  		boolean a = true;
-  		boolean b = true;
-  		//a true b true A XOR B false 
+      System.out.println("Value of int a: "+ (a++) );
+      System.out.println("Value of int b: "+ (b++) );
 
-  		System.out.println("a true b true A XOR B: " + (a ^ b) );
+      System.out.println("Value of int a: "+a );
+      System.out.println("Value of int b: "+b );
 
-  		a = true;
-  		b = false;
-  		//a true b false A XOR  B true 
+      System.out.println("a<12: "+(a<12));
+      System.out.println("b>11: "+(b>11));
+      System.out.println("a<12 & b>11: "+ (a<12 & b>11) );
 
-  		System.out.println("a true b false A XOR B: " +(a ^ b) );
+      System.out.println("a<12 | b>11: "+ (a<12 | b>11) );
 
+      System.out.println("Value of int a: "+a );
+      System.out.println("Value of int b: "+b );
+      System.out.println("(a++)<12 || (b++)>20: "+ ((a++)<12 || (b++)>20) );//Short 
 
-  		a = false;
-  		b = true;
-  		//a false b true A XOR  B true 
-
-  		System.out.println("a false b true A XOR B: " +(a ^ b) );
-
-  		a = false;
-  		b = false;
-  		//a false b false A XOR  B false 
-
-  		System.out.println("a false b false A XOR B: " +(a ^ b) );
-	}
-
+      System.out.println("Value of int a: "+a );
+      System.out.println("Value of int b: "+b );
+  }
 }
