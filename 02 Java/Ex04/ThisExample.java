@@ -5,13 +5,13 @@ class ThisExample
 
 	public ThisExample()
 	{
-		System.out.println("Inside ConstructorDemo Constructor ");
+		System.out.println("Inside ThisExample Constructor ");
 		this.classVariableString = 10;
 	}
 
 	public ThisExample(String name)
 	{
-		System.out.println("Inside ConstructorDemo Constructor Name: "+ name);
+		System.out.println("Inside ThisExample Constructor Name: "+ name);
 		this.name = name;
 	}
 
@@ -19,7 +19,7 @@ class ThisExample
 
 		ThisExample obj = new ThisExample();
 		ThisExample obj1 = new ThisExample("Zack");
-		System.out.println("Inside ConstructorDemo Main Method");
+		System.out.println("Inside ThisExample Main Method");
 		obj1.printMethod();
 		
 	}

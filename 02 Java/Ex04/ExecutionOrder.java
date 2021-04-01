@@ -19,7 +19,7 @@ public class ExecutionOrder
     {
       System.out.println("Main Method");
 
-      new ExecutionOrder();
+      new ExeuctionOrder().myMethod();
     }
 
 }
