@@ -3,7 +3,7 @@
 ### **Prerequisite:** Java Ex01, Ex02, Ex03, Ex04 must be completed
 
 
-- ##### Enum, Assert, StringBuffer, StringBuilder, native, strictfp, transient, volatile 
+- ##### Loops, Enum, Assert, StringBuffer, StringBuilder, native, strictfp, transient, volatile 
 
 
  
@@ -53,18 +53,47 @@
  ---
  Exercise
  - [x] Attend the class
- - [ ] 1) Create, Compile and Execute  FirstPackage.java
- - [ ] 2) Create, Compile and Execute  PackageAccess.java
- - [ ] 3) Create, Compile and Execute  StaticVariable.java
+ - [ ] 1) Create, Compile and Execute  SwitchExample.java
+ - [ ] 2) Create, Compile and Execute  IfExample.java
+ - [ ] 3) Create, Compile and Execute  WhileExample.java
+ - [ ] 4) Create, Compile and Execute  DoWhile.java
+ - [ ] 5) Create, Compile and Execute  ForExample.java
+ - [ ] 6) Create, Compile and Execute  ForAdvanced.java
+ - [ ] 7) Create, Compile and Execute  BreakContinue.java
+ - [ ] 8) Create, Compile and Execute  MultidimensionalArray.java
 
 
 ---
 
-`javac -d . com/cgi/fullstack/FirstPackage.java`
+`javac SwitchExample.java`
 
-`java com.cgi.fullstack.FirstPackage`
+`java SwitchExample`
 
-`java -cp . com.cgi.fullstack.FirstPackage`
+`javac IfExample.java`
 
-`java -classpath . com.cgi.fullstack.FirstPackage`
+`java IfExample`
+
+`javac WhileExample.java`
+
+`java WhileExample`
+
+`javac DoWhile.java`
+
+`java DoWhile`
+
+`javac ForExample.java`
+
+`java ForExample`
+
+`javac ForAdvanced.java`
+
+`java ForAdvanced`
+
+`javac BreakContinue.java`
+
+`java BreakContinue`
+
+`javac MultidimensionalArray.java`
+
+`java MultidimensionalArray`
 

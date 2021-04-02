@@ -76,7 +76,6 @@
  - [ ] 21) Create, Compile and Execute  AccessSpecifier.java, InsidePackageAccess.java, OutsidePackageAccess.java, OutsidePackageChildAccess.java
  - [ ] 22) Create, Compile and Execute  ExceptionsExample.java
  - [ ] 23) Create, Compile and Execute  ThrowableExample.java
- - [ ] 24) Create, Compile and Execute  SwitchExample.java
 
 ---
 
@@ -191,6 +190,4 @@
 
 `java ThrowableExample`
 
-`javac SwitchExample.java`
 
-`java SwitchExample`
