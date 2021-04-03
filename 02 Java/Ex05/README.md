@@ -61,7 +61,12 @@
  - [ ] 6) Create, Compile and Execute  ForAdvanced.java
  - [ ] 7) Create, Compile and Execute  BreakContinue.java
  - [ ] 8) Create, Compile and Execute  MultidimensionalArray.java
-
+ - [ ] 9) Create, Compile and Execute  FinalMethodExample.java
+ - [ ] 10) Create, Compile and Execute  FinalVariable.java
+ - [ ] 11) Create, Compile and Execute  FinalClass.java
+ - [ ] 12) Create, Compile and Execute  AssertionExample.java
+ - [ ] 13) Create, Compile and Execute  EnumDemo.java 
+ - [ ] 14) Create, Compile and Execute  StrictFPExample.java
 
 ---
 
@@ -97,3 +102,28 @@
 
 `java MultidimensionalArray`
 
+`javac FinalMethodExample.java`
+
+`java FinalMethodExample`
+
+`javac FinalVariable.java`
+
+`java FinalVariable`
+
+`javac FinalClass.java`
+
+`java FinalClass`
+
+`javac AssertionExample.java`
+
+`java -enableassertions AssertionExample`
+
+`java -ea AssertionExample`
+
+`javac EnumDemo.java`
+
+`java EnumDemo`
+
+`javac StrictFPExample.java`
+
+`java StrictFPExample`
