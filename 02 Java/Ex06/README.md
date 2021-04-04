@@ -1,9 +1,9 @@
 # Packages 
 
-### **Prerequisite:** Java Ex01, Ex02, Ex03, Ex04 must be completed
+### **Prerequisite:** Java Ex01, Ex02, Ex03, Ex04, EX05 must be completed
 
 
-- ##### Loops, Enum, Assert, StringBuffer, StringBuilder, native, strictfp, transient, Serialization and DeSerialization 
+- ##### Threads, volatile, Syncrhonized 
 
 
  
