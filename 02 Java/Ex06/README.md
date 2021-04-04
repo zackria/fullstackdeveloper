@@ -3,7 +3,7 @@
 ### **Prerequisite:** Java Ex01, Ex02, Ex03, Ex04, EX05 must be completed
 
 
-- ##### Threads, volatile, Syncrhonized 
+- ##### Threads, volatile, Syncrhonized, Java Collections
 
 
  
