@@ -19,6 +19,9 @@
  - [ ] 11) Create, and View Ex11.html
  - [ ] 12) Create, and View Ex12.html
  - [ ] 13) Create, and View Ex13.html
+ - [ ] 14) Create, and View Ex14.html
+ - [ ] 15) Create, and View Ex15.html
+ - [ ] 16) Create, and View Ex16.html
 
  ---
 
