@@ -6,10 +6,13 @@
  ---
  Exercise
  - [x] Attend the class
- - [ ] Complete Ex01 and Ex02 Exercises 
+ - [ ] 1) Create, and View Ex17.html
+ - [ ] 2) Create, and View Ex18.html
+ - [ ] 3) Create, and View Ex19.html
+ - [ ] 4) Create, and View Ex20.html
 
  ---
-
+ 
  [HTML Validator](https://validator.w3.org/)
 
  [CSS Validator](https://jigsaw.w3.org/css-validator/ )
