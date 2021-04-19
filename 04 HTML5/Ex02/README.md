@@ -26,6 +26,8 @@
  - [ ] 17) Create, and View Ex33.html
  - [ ] 18) Create, and View Ex34.html
  - [ ] 19) Create, and View Ex35.html
+ - [ ] 20) Create, and View Ex36.html
+ - [ ] 21) Create, and View Ex37.html
 
  ---
  
