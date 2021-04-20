@@ -64,6 +64,7 @@ Sessions Planned
 - [https://www.codecademy.com/](https://www.codecademy.com/)
 - [https://debuild.co/](https://debuild.co/)
 - [https://curriculum.code.org/csd-20/unit2/](https://curriculum.code.org/csd-20/unit2/)
+- [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 # Real World Projects for Beginner Programmers
 
