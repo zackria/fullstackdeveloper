@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Audio Video</title>
+</head>
+<body>
+
+	<h1>Audio/Video Demo</h1>
+
+	<video controls width="250">
+
+    <source src="./flower.webm"
+            type="video/webm">
+
+    <source src="./flower.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+<br> <br>
+
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
+</iframe>
+
+<br> <br>
+
+      <audio id="soundCorrect">
+          <source src="Sound_Correct.mp3" />
+      </audio>
+      <audio id="soundWrong">
+          <source src="Sound_Wrong.mp3" />
+      </audio>
+
+      <audio id="30Seconds">
+          <source src="Sound_30Seconds.mp3" />
+      </audio>
+
+       <button id="correctButton">Correct</button>
+       &nbsp;&nbsp;
+       <button id="wrongButton">Wrong</button>
+
+       <br><br>
+
+       <button id="startButton" onclick="start()">Start</button>
+       &nbsp;&nbsp;
+       <button id="stopButton" onclick="stop()">Stop</button>
+
+
+      <script type="text/javascript">
+      	const soundCorrect = document.getElementById("soundCorrect");
+      	const soundWrong = document.getElementById("soundWrong");
+
+      	const correctButton = document.getElementById("correctButton");
+
+      	const wrongButton = document.getElementById("wrongButton");
+
+      	correctButton.addEventListener("click", function(){
+        	soundCorrect.play();
+      	})
+
+      	wrongButton.addEventListener("click", function(){
+        	soundWrong.play();
+      	})
+
+      	function start()
+      	{
+      		document.getElementById("30Seconds").play();
+      	}
+
+      	function stop()
+      	{
+      		document.getElementById("30Seconds").pause();
+        	document.getElementById("30Seconds").currentTime = 0;
+      	}
+
+      </script>
+</body>
+</html>

@@ -28,7 +28,11 @@
  - [ ] 19) Create, and View Ex35.html
  - [ ] 20) Create, and View Ex36.html
  - [ ] 21) Create, and View Ex37.html
-
+ - [ ] 22) Create, and View Ex38.html
+ - [ ] 23) Create, and View Ex39.html
+ - [ ] 24) Create, and View LoginBasic.html
+ - [ ] 25) Create, and View WebSite.html
+ - [ ] 26) Create, and View Login.html
  ---
  
  [HTML Validator](https://validator.w3.org/)
