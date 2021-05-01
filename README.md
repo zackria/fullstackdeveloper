@@ -68,6 +68,8 @@ Sessions Planned
 - [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
 - [https://www.codecademy.com/](https://www.codecademy.com/)
 - [https://www.educative.io/](https://www.educative.io/)
+- [Code with your voice with Serenade.ai](https://serenade.ai/)
+- [The place to learn front end coding](https://www.colorcode.io/)
 
 # Real World Projects for Beginner Programmers
 
