@@ -50,6 +50,7 @@ Sessions Planned
 - [SOAPUI](https://www.soapui.org/)
 - [Postman](https://www.postman.com/)
 - [ElectronJS](https://www.electronjs.org/)
+- [MAMP](https://www.mamp.info/)
 
 ---
 
