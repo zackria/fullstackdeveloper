@@ -40,3 +40,11 @@ Full Stack Developer Training
   - [https://nicepage.com/](https://nicepage.com/)
 
   - [http://csslint.net/](http://csslint.net/)
+
+  --- 
+
+  ## Sample Website 
+
+  - [https://startbootstrap.com/theme/creative](https://startbootstrap.com/theme/creative)
+  - [https://github.com/StartBootstrap/startbootstrap-creative](https://github.com/StartBootstrap/startbootstrap-creative)
+  - [https://startbootstrap.github.io/startbootstrap-creative/](https://startbootstrap.github.io/startbootstrap-creative/)
