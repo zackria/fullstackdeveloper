@@ -58,3 +58,5 @@ Full Stack Developer Training
   - [https://codepen.io/abxlfazl/pen/VwKzaEm](https://codepen.io/abxlfazl/pen/VwKzaEm)
 
   - [https://codepen.io/aurer/pen/jEGbA](https://codepen.io/aurer/pen/jEGbA)
+
+  - [https://codepen.io/pjparrot/pen/gQyMGa](https://codepen.io/pjparrot/pen/gQyMGa)
