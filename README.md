@@ -51,6 +51,7 @@ Sessions Planned
 - [Postman](https://www.postman.com/)
 - [ElectronJS](https://www.electronjs.org/)
 - [MAMP](https://www.mamp.info/)
+- [WAMP](https://www.wampserver.com/en/)
 
 ---
 
