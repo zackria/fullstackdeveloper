@@ -44,7 +44,7 @@ Know your Algorithms & data structures for the interview
 5. Basic understanding of metrics like QPS, TPS, P50, P90, P99
 
 
-# 3 Books to Read for Developers
+# 2 Books to Read for Developers
 Alogrithms to Live By
 Grokking algorithms
 
