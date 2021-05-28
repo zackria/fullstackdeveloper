@@ -11,6 +11,7 @@ Know your Algorithms & data structures for the interview
 - Hashing
 - Tries(+)
 - Bit Manipulation(+)
+- The Leaky Bucket Algorithm 
 
 
 # Programming Language 
