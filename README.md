@@ -126,3 +126,9 @@ calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligrap
 
 - Kaggle [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 - Namara [https://marketplace.namara.io/](https://marketplace.namara.io/)
+
+# Popular Fonts 
+- Trajan
+- Helvetica used in Jeep and The North Face logo
+- Gotham used in Cartoon Network and Spotify 
+- Futura used in Supreme 

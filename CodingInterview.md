@@ -36,4 +36,17 @@ Know your Algorithms & data structures for the interview
 - JAM
 - LAMP 
 
+# 5 Things expected to know as a Software Engineer
+1. Basic of Cloud (Like Compute Storage on permission for AWS EC2, IAM & S3, Same concepts for Google Cloud and Azure)
+2. Version Control and GIT specifically 
+3. Basics of working with the remote server like SSH SCP and basic bash commands like copy move open in a file and things like that 
+4. Basics of Containers & Image 
+5. Basic understanding of metrics like QPS, TPS, P50, P90, P99
+
+
+# 3 Books to Read for Developers
+Alogrithms to Live By
+Grokking algorithms
+
+
 [https://www.appacademy.io/](https://www.appacademy.io/)
