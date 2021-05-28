@@ -85,6 +85,12 @@ Sessions Planned
 - Mail Advertising [https://mailchimp.com/](https://mailchimp.com/)
 - Animated Icon Library [https://lordicon.com/](https://lordicon.com/)
 - Free Flat Vector Icon [https://www.flaticon.com/](https://www.flaticon.com/)
+- Free PDF Editor & Form Filler
+[https://www.pdfescape.com/](https://www.pdfescape.com/)
+- Pre-Made Video Templates [https://invideo.io/](https://invideo.io/)
+- Transform your handwriting or
+calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligraphr.com/en/)
+
 
 # Freelance
 - [https://www.toptal.com/](https://www.toptal.com/)
