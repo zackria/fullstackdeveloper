@@ -72,6 +72,7 @@ Sessions Planned
 - [https://www.educative.io/](https://www.educative.io/)
 - [Code with your voice with Serenade.ai](https://serenade.ai/)
 - [The place to learn front end coding](https://www.colorcode.io/)
+- [Public API's](https://github.com/public-apis/public-apis)
 
 # Real World Projects for Beginner Programmers
 
