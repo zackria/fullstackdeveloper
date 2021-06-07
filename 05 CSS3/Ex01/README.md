@@ -12,6 +12,14 @@ Full Stack Developer Training
  - [ ] Complete Ex04.html
  - [ ] Complete Ex05.html
  - [ ] Complete Ex06.html
+ - [ ] Complete Ex07.html
+ - [ ] Complete Ex08.html
+ - [ ] Complete Ex09.html
+ - [ ] Complete Ex10.html
+ - [ ] Complete Ex11.html
+ - [ ] Complete Ex12.html
+ - [ ] Complete Ex13.html
+ - [ ] Complete Ex14.html
 
  ---
 
