@@ -1,0 +1,16 @@
+Facebook Interview Question#1 
+
+Facebook Interview Question
+
+You are given a function strongPassword(password)
+
+Somebody enters a password into your function 
+
+You have to figure out what is the minimum number of edits necessary to make it a “strong” password 
+
+A strong password has at least one number, one uppercase letter is at least 6 characters long but less than 20 characters and 3 of the same letter cannot repeat in a row 
+
+An edit is adding a letter, removing a letter, or replacing a letter 
+
+You have 45 minutes to figure out 
+
