@@ -123,6 +123,13 @@ calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligrap
 - Adobe XD [https://www.adobe.com/ca/products/xd.html](https://www.adobe.com/ca/products/xd.html)
 - Balsamiq [https://balsamiq.com/](https://balsamiq.com/)
 
+# Web Design Tools
+- [https://mycolor.space/](https://mycolor.space/)
+- [https://www.fontsinthewild.com/](https://www.fontsinthewild.com/)
+- [https://www.lapa.ninja/](https://www.lapa.ninja/)
+- [https://www.figma.com/](https://www.figma.com/)
+- [https://webflow.com/](https://webflow.com/)
+
 # Open DataSet
 
 - Kaggle [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
