@@ -78,20 +78,6 @@ Sessions Planned
 
 - [https://github.com/MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
-# Other Resources: 
-- Royalty Free Music [https://orangefreesounds.com/](https://orangefreesounds.com/)
-- Royalty Free Music [https://snapmuse.com/](https://snapmuse.com/)
-- Royalty Free Images [https://www.pexels.com/](https://www.pexels.com/)
-- Opensource Video Editor [https://www.openshot.org/](https://www.openshot.org/)
-- Mail Advertising [https://mailchimp.com/](https://mailchimp.com/)
-- Animated Icon Library [https://lordicon.com/](https://lordicon.com/)
-- Free Flat Vector Icon [https://www.flaticon.com/](https://www.flaticon.com/)
-- Free PDF Editor & Form Filler
-[https://www.pdfescape.com/](https://www.pdfescape.com/)
-- Pre-Made Video Templates [https://invideo.io/](https://invideo.io/)
-- Transform your handwriting or
-calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligraphr.com/en/)
-
 
 # Freelance
 - [https://www.toptal.com/](https://www.toptal.com/)
@@ -140,3 +126,23 @@ calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligrap
 - Helvetica used in Jeep and The North Face logo
 - Gotham used in Cartoon Network and Spotify 
 - Futura used in Supreme 
+
+
+# Other Resources: 
+- Royalty Free Music [https://orangefreesounds.com/](https://orangefreesounds.com/)
+- Royalty Free Music [https://snapmuse.com/](https://snapmuse.com/)
+- Royalty Free Images [https://www.pexels.com/](https://www.pexels.com/)
+- Opensource Video Editor [https://www.openshot.org/](https://www.openshot.org/)
+- Mail Advertising [https://mailchimp.com/](https://mailchimp.com/)
+- Animated Icon Library [https://lordicon.com/](https://lordicon.com/)
+- Free Flat Vector Icon [https://www.flaticon.com/](https://www.flaticon.com/)
+- Free PDF Editor & Form Filler
+[https://www.pdfescape.com/](https://www.pdfescape.com/)
+- Pre-Made Video Templates [https://invideo.io/](https://invideo.io/)
+- Transform your handwriting or
+calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligraphr.com/en/)
+- Remove Background from Image Automatically & Free [https://www.erase.bg/](https://www.erase.bg/)
+- Remove Video Background [https://www.unscreen.com/](https://www.unscreen.com/)
+- QuillBot rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI [https://quillbot.com/](https://quillbot.com/)
+- Make your voice heard [https://podcastle.ai/](https://podcastle.ai/)
+- Find Alternatives to apps [https://alternativeto.net/](https://alternativeto.net/)
