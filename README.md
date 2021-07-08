@@ -146,3 +146,4 @@ calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligrap
 - QuillBot rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI [https://quillbot.com/](https://quillbot.com/)
 - Make your voice heard [https://podcastle.ai/](https://podcastle.ai/)
 - Find Alternatives to apps [https://alternativeto.net/](https://alternativeto.net/)
+- Discover what public are asking about a topic [https://answerthepublic.com/](https://answerthepublic.com/)
