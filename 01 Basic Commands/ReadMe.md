@@ -305,3 +305,24 @@ Exercise
 3. [www.keybr.com](https://www.keybr.com/ )
 
 4. [10fastfingers.com](https://10fastfingers.com/ )
+
+
+#### Linux Tools 
+
+- DNF or Dandified YUM is the next-generation version of the Yellowdog Updater, Modified, a package manager for .rpm-based distributions. DNF was introduced in Fedora 18 in 2013, it has been the default package manager since Fedora 22 in 2015 and Red Hat Enterprise Linux 8
+
+- YUM The Yellowdog Updater, Modified is a free and open-source command-line package-management utility for computers running the Linux operating system using the RPM Package Manager. Though YUM has a command-line interface, several other tools provide graphical user interfaces to YUM functionality.
+
+- Red-hat Package Manager (RPM) rpm rpm is a powerful Package Manager for Red Hat, Suse and Fedora Linux. It can be used to build, install, query, verify, update, and remove/erase individual software packages.
+
+- VMWare CentOS  Internet Fix
+
+`ifconfig`
+
+`dhclient –v`
+
+`chmod 755 net-autostart`
+
+`chkconfig --add net-autostart`
+
+[https://geekflare.com/no-internet-connection-from-vmware-with-centos-7/](https://geekflare.com/no-internet-connection-from-vmware-with-centos-7/)
