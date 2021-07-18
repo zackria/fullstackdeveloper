@@ -25,7 +25,7 @@ Full Stack Developer Training
 
 # Windows 10
 
-### Step 1 Download Apache Binaries from Apache Lounge Installation
+### Download Apache Binaries from Apache Lounge Installation
 - Apache Lounge Download Link [https://www.apachelounge.com/download/](https://www.apachelounge.com/download/)
 #### :memo:  Microsoft C++ Redistributable for Visual Studio 2012 Update 4 / Microsoft C++ Redistributable for Visual Studio 2015 to be pre-installed before installing Apache Lounge
 
