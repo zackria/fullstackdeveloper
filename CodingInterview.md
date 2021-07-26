@@ -50,4 +50,13 @@ Alogrithms to Live By
 Grokking algorithms
 
 
-[https://www.appacademy.io/](https://www.appacademy.io/)
+- App Academy [https://www.appacademy.io/](https://www.appacademy.io/)
+
+
+- FreecodeCamp [https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
+- Javascript Mastery [https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+
+- Traversy Media [https://www.youtube.com/user/TechGuyWeb](https://www.youtube.com/user/TechGuyWeb)
+
+- Web Dev Simplified [https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
