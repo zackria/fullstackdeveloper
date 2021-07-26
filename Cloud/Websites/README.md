@@ -97,9 +97,9 @@ Full Stack Developer Training
 # Linux Ubuntu
 - Open Terminal and execute the folllowing commands 
 
-`sudo apt update`
+ `sudo apt update`
 
-`sudo apt install apache2`
+ `sudo apt install apache2`
 
  `sudo service apache2 status`
 
