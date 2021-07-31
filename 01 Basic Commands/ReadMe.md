@@ -61,6 +61,8 @@ or
 
 #### 15) Complete the step 1 to 10 in Windows Explorer
 
+### :memo: Windows Host file location `C:\Windows\System32\drivers\etc\hosts`
+
 ---
 
 ## Launching MacOS Terminal Console  
@@ -114,6 +116,11 @@ Click Launchpad + Type `Terminal` Click to Open
 `cd ..`
 
 #### 15) Complete the step 1 to 10 in Mac Finder
+
+
+### :memo: Mac Host file location `/etc/hosts`
+
+
 ---
 
 ## Launching Linux Terminal Console  
@@ -165,6 +172,9 @@ Click Activities and Launch Terminal
 `cd ..`
 
 #### 15) Complete the step 1 to 10 in Linux Files
+
+
+### :memo: Mac Host file location `/etc/hosts`
 
 ---
 ## :memo: Each command is a short form of the function
