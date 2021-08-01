@@ -108,6 +108,7 @@ Sessions Planned
 - Framer [https://www.framer.com/](https://www.framer.com/)
 - Adobe XD [https://www.adobe.com/ca/products/xd.html](https://www.adobe.com/ca/products/xd.html)
 - Balsamiq [https://balsamiq.com/](https://balsamiq.com/)
+- Mock-U-Ups Studio [https://mockuuups.studio/](https://mockuuups.studio/)
 
 # Web Design Tools
 - [https://mycolor.space/](https://mycolor.space/)

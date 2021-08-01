@@ -60,3 +60,6 @@ Grokking algorithms
 - Traversy Media [https://www.youtube.com/user/TechGuyWeb](https://www.youtube.com/user/TechGuyWeb)
 
 - Web Dev Simplified [https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
+- Kenny talks Code 
+[https://www.youtube.com/channel/UChQRyFNgb7lbfzoacC5hk_A](https://www.youtube.com/channel/UChQRyFNgb7lbfzoacC5hk_A)
