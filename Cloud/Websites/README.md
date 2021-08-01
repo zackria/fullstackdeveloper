@@ -23,6 +23,17 @@ Full Stack Developer Training
 `/private/etc/apache2/httpd.conf`
 
 
+### :memo: Getting write access to the Document Root
+
+`who am i`
+
+`ls -l /Library/WebServer/Documents`
+
+`sudo chown root:wheel /Library/WebServer/Documents`
+
+`sudo chmod 755 /Library/WebServer/Documents`
+
+
 # Windows 10
 
 ### Download Apache Binaries from Apache Lounge Installation
