@@ -73,6 +73,9 @@ Sessions Planned
 - [Code with your voice with Serenade.ai](https://serenade.ai/)
 - [The place to learn front end coding](https://www.colorcode.io/)
 - [Public API's](https://github.com/public-apis/public-apis)
+- [Securiuty Training for Developers](https://www.hacksplaining.com/)
+- [https://ai.google/](https://ai.google/)
+
 
 # Real World Projects for Beginner Programmers
 
@@ -133,6 +136,8 @@ Sessions Planned
 - Royalty Free Music [https://orangefreesounds.com/](https://orangefreesounds.com/)
 - Royalty Free Music [https://snapmuse.com/](https://snapmuse.com/)
 - Royalty Free Images [https://www.pexels.com/](https://www.pexels.com/)
+- Royalty Free Images [https://pixabay.com/](https://pixabay.com/)
+- Royalty Free Images [https://unsplash.com/](https://unsplash.com/)
 - Opensource Video Editor [https://www.openshot.org/](https://www.openshot.org/)
 - Mail Advertising [https://mailchimp.com/](https://mailchimp.com/)
 - Animated Icon Library [https://lordicon.com/](https://lordicon.com/)
