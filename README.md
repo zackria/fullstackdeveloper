@@ -153,3 +153,14 @@ calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligrap
 - Make your voice heard [https://podcastle.ai/](https://podcastle.ai/)
 - Find Alternatives to apps [https://alternativeto.net/](https://alternativeto.net/)
 - Discover what public are asking about a topic [https://answerthepublic.com/](https://answerthepublic.com/)
+
+
+# Mind Maps
+- Coggle.it [https://coggle.it/](https://coggle.it/)
+- Bubbl.us [https://bubbl.us/](https://bubbl.us/)
+
+# Domain name check
+- Namechk.com [https://namechk.com/](https://namechk.com/)
+
+# hand-drawn illustration library
+[https://www.openpeeps.com/](https://www.openpeeps.com/)

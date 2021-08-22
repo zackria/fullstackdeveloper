@@ -63,3 +63,9 @@ Grokking algorithms
 
 - Kenny talks Code 
 [https://www.youtube.com/channel/UChQRyFNgb7lbfzoacC5hk_A](https://www.youtube.com/channel/UChQRyFNgb7lbfzoacC5hk_A)
+
+- Resume Worded [https://resumeworded.com/](https://resumeworded.com/)
+
+- Word Cloud [https://worditout.com/word-cloud/create](https://worditout.com/word-cloud/create)
+
+- Cool Email Signature [https://www.wisestamp.com/](https://www.wisestamp.com/)
