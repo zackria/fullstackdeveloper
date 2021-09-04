@@ -1,1 +1,1 @@
-print("HelloWorld");
+print("HelloWorld 🙀");
