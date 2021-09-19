@@ -157,3 +157,58 @@ Click  `(⊞ Win/(⌘)) Key` + Type `Terminal`
 or
 
 Click activites + Type `Terminal` Click to Open
+
+
+# Visual Studio Code Java Plugins
+
+### Name: Language Support for Java(TM) by Red Hat
+Id: redhat.java
+Description: Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...
+Version: 0.82.0
+Publisher: Red Hat
+VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=redhat.java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+
+### Name: Code Runner
+Id: formulahendry.code-runner
+Description: Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, 
+Version: 0.11.5
+Publisher: Jun Han
+VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+
+### Name: Extension Pack for Java
+Id: vscjava.vscode-java-pack
+Description: Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more
+Version: 0.18.4
+Publisher: Microsoft
+VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+### Name: Test Runner for Java
+Id: vscjava.vscode-java-test
+Description: Run and debug JUnit or TestNG test cases
+Version: 0.31.3
+Publisher: Microsoft
+VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test)
+
+
+### Name: Debugger for Java
+Id: vscjava.vscode-java-debug
+Description: A lightweight Java debugger for Visual Studio Code
+Version: 0.35.0
+Publisher: Microsoft
+VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug)
+
+
+### Name: Project Manager for Java
+Id: vscjava.vscode-java-dependency
+Description: Manage Java projects in Visual Studio Code
+Version: 0.18.7
+Publisher: Microsoft
+VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)
+
+### Name: Maven for Java
+Id: vscjava.vscode-maven
+Description: Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.
+Version: 0.33.0
+Publisher: Microsoft
+VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven)
