@@ -1,4 +1,4 @@
-class DummyClass {
+ class DummyClass {
     public String classVariable = "";
 }
 
