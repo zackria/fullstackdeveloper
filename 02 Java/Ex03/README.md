@@ -73,6 +73,11 @@
  - [ ] 15) Create, Compile and Execute  ComparisonOperators03.java
  - [ ] 16) Create, Compile and Execute  LogicalOperators.java
  - [ ] 17) Create, Compile and Execute  JavaArrays.java
+ - [ ] 18) Create, Compile and Execute  UnaryOperator.java
+ - [ ] 19) Create, Compile and Execute  IncrementOperator.java
+ - [ ] 20) Create, Compile and Execute  StaticExample.java
+ - [ ] 21) Create, Compile and Execute  SwapVariable.java
+ - [ ] 22) Create, Compile and Execute  EqualsOperator.java
 
 ---
 
