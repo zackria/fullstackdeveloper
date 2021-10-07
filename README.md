@@ -75,6 +75,7 @@ Sessions Planned
 - [Public API's](https://github.com/public-apis/public-apis)
 - [Securiuty Training for Developers](https://www.hacksplaining.com/)
 - [https://ai.google/](https://ai.google/)
+- Curated list of Awesome System Design (A.K.A Distributed Systems) [https://github.com/madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
 
 
 # Real World Projects for Beginner Programmers
@@ -153,6 +154,7 @@ calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligrap
 - Make your voice heard [https://podcastle.ai/](https://podcastle.ai/)
 - Find Alternatives to apps [https://alternativeto.net/](https://alternativeto.net/)
 - Discover what public are asking about a topic [https://answerthepublic.com/](https://answerthepublic.com/)
+- Genial.ly Cool Presentation Tool [https://genial.ly/](https://genial.ly/)
 
 
 # Mind Maps

@@ -2,23 +2,30 @@
 Full Stack Developer Training
 
 
-- # Learn Python  [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
+- ### Learn Python  [https://www.w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp)
 
-- # Learn Python Through Projects [http://thecodex.me/](http://thecodex.me/) 
+- ### Learn Python Through Projects [http://thecodex.me/](http://thecodex.me/) 
 
-- # Learn Automation with Python [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/) 
+- ### Learn Automation with Python [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/) 
 
-- # Instant Python refactoring
+- ### Instant Python refactoring
  [https://sourcery.ai/](https://sourcery.ai/)
 
+ - ### Corey Schafer Python Programming Tutorials [https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
- - # Python3 Download [https://www.python.org/downloads/](https://www.python.org/downloads/)
+ - ### Sololearn.com The best way to learn to code
+[https://www.sololearn.com/home](https://www.sololearn.com/home)
 
- - # Visual Stuido Code [https://code.visualstudio.com/](https://code.visualstudio.com/)
+ - MIT open courseware [https://ocw.mit.edu/](https://ocw.mit.edu/)
+
+
+ - ### Python3 Download [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+ - ### Visual Stuido Code [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
  ## Visual Studio Code Extensions for Python
 
-- # Python Extension 
+- ### Python Extension 
 
 Python Name: Python
 Id: ms-python.python
@@ -28,7 +35,7 @@ Publisher: Microsoft
 VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 
-- # Pylance Extension 
+- ### Pylance Extension 
 
 Name: Pylance
 Id: ms-python.vscode-pylance
@@ -37,7 +44,7 @@ Version: 2021.9.0
 Publisher: Microsoft
 VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
 
-- # Code Runner Extension
+- ### Code Runner Extension
 
 Name: Code Runner
 Id: formulahendry.code-runner
@@ -46,7 +53,7 @@ Version: 0.11.5
 Publisher: Jun Han
 VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
 
-- # Linter Extension
+- ### Linter Extension
 
 Name: Linter
 Id: fnando.linter
@@ -55,10 +62,10 @@ Version: 0.0.11
 Publisher: Nando Vieira
 VS Marketplace Link: [https://marketplace.visualstudio.com/items?itemName=fnando.linter](https://marketplace.visualstudio.com/items?itemName=fnando.linter)
 
-- # Install auto pep8 for formatting `python3 -m pip install -U autopep8`
+- ### Install auto pep8 for formatting `python3 -m pip install -U autopep8`
 
 
 For MacOS / Linux use  `sudo python3 -m pip install -U autopep8`
 
 
-- # Enable Settings in VS Code (Text Editor - Formatting : Format On Save)
+- ### Enable Settings in VS Code (Text Editor - Formatting : Format On Save)

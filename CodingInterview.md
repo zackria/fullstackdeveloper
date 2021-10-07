@@ -69,3 +69,14 @@ Grokking algorithms
 - Word Cloud [https://worditout.com/word-cloud/create](https://worditout.com/word-cloud/create)
 
 - Cool Email Signature [https://www.wisestamp.com/](https://www.wisestamp.com/)
+
+- Quick Math [https://quickmath.com/](https://quickmath.com/)
+
+
+### Thesis Tools
+
+- Connected Papers [https://www.connectedpapers.com/](https://www.connectedpapers.com/)
+
+- Citations for Better Research [https://scite.ai/](https://scite.ai/)
+
+- Mendeley Reference Manager [https://www.mendeley.com/reference-management/reference-manager](https://www.mendeley.com/reference-management/reference-manager)
