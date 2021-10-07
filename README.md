@@ -155,6 +155,8 @@ calligraphy into a font! [https://www.calligraphr.com/en/](https://www.calligrap
 - Find Alternatives to apps [https://alternativeto.net/](https://alternativeto.net/)
 - Discover what public are asking about a topic [https://answerthepublic.com/](https://answerthepublic.com/)
 - Genial.ly Cool Presentation Tool [https://genial.ly/](https://genial.ly/)
+- Download Tik Tok Video without watermarks [https://snaptik.app/en](https://snaptik.app/en)
+- INSTAGRAM HASHTAG & ANALYTICS TOOL [https://www.flick.tech/](https://www.flick.tech/)
 
 
 # Mind Maps
