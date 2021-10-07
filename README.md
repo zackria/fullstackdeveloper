@@ -76,6 +76,7 @@ Sessions Planned
 - [Securiuty Training for Developers](https://www.hacksplaining.com/)
 - [https://ai.google/](https://ai.google/)
 - Curated list of Awesome System Design (A.K.A Distributed Systems) [https://github.com/madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
+- Github student developer pack [https://education.github.com/pack](https://education.github.com/pack)
 
 
 # Real World Projects for Beginner Programmers
