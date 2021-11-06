@@ -1,36 +1,36 @@
-class SuperExample
-{
-	public static void main(String[] args) {
-		ChildClass obj = new ChildClass("Testing");
-	}
-
+class SuperExample{
+   public static void main(String[] args){
+      ChildClass obj = new ChildClass("Testing");
+   }
 }
 
-class SuperClass 
-{
-	int age = 10;
+class SuperClass{
 
-	SuperClass()
-	{
-		System.out.println("SuperClass Constructor");
-	}
+    int age = 10;
 
-	void test()
-	{
-		System.out.println("SuperClass void test");
-	}
+    SuperClass(){
+       System.out.println("SuperClass Constructor");
+    }
+
+    void test(){
+      System.out.println("SuperClass void test");
+    }
 }
 
-class ChildClass extends SuperClass 
-{
-	ChildClass()
-	{
-		System.out.println("ChildClass Constructor");
-	}
+class ChildClass extends SuperClass{
 
-	ChildClass(String value)
-	{
-		System.out.println("ChildClass Constructor value: "+value + " Age: "+age);
-		super.test();
-	}
+  int age = 20;
+
+   ChildClass(){
+     System.out.println("ChildClass Constructor");
+   }
+
+   ChildClass(String value){
+      System.out.println("ChildClass Contructor value: "+value+ " age "+super.age);
+      super.test();
+   }
+
+   void test(){
+     System.out.println("ChildClass void test");
+   }
 }
