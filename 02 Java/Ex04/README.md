@@ -61,7 +61,7 @@
  - [ ] 6) Create, Compile and Execute  LocalVariable.java
  - [ ] 7) Create, Compile and Execute  ClassVariable.java
  - [ ] 8) Create, Compile and Execute  InheritanceExample.java
- - [ ] 9) Create, Compile and Execute  FinalClass.java
+ - [ ] 9) Create, Compile and Execute  FinalClass.java, FinalVariable.java
  - [ ] 10) Create, Compile and Execute  PolymorphismExample.java
  - [ ] 11) Create, Compile and Execute  MethodOverLoad.java
  - [ ] 12) Create, Compile and Execute  MethodArguments.java
