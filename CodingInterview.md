@@ -80,3 +80,17 @@ Grokking algorithms
 - Citations for Better Research [https://scite.ai/](https://scite.ai/)
 
 - Mendeley Reference Manager [https://www.mendeley.com/reference-management/reference-manager](https://www.mendeley.com/reference-management/reference-manager)
+
+### Coding Interview
+
+- Top Coder [https://www.topcoder.com/]( https://www.topcoder.com/)
+- Coder Byte [https://coderbyte.com/](https://coderbyte.com/)
+- Hacker Rank [https://www.hackerrank.com/](https://www.hackerrank.com/)
+- Codility [https://www.codility.com/](https://www.codility.com/)
+- Coding Game [https://www.codingame.com/](https://www.codingame.com/)
+- Mock Interview pramp [https://www.pramp.com/#/](https://www.pramp.com/#/)
+- Mock Interview interviewbit [https://www.interviewbit.com/](https://www.interviewbit.com/)
+- Mock Interview Interview IO [https://interviewing.io/](https://interviewing.io/)
+- Mock Interview Interview Cake [https://www.interviewcake.com/](https://www.interviewcake.com/)
+- Mock Interview [https://www.tryexponent.com/](https://www.tryexponent.com/)
+- UX Challenges [https://uxtools.co/challenges](https://uxtools.co/challenges)

@@ -78,6 +78,7 @@ Sessions Planned
 - Curated list of Awesome System Design (A.K.A Distributed Systems) [https://github.com/madd86/awesome-system-design](https://github.com/madd86/awesome-system-design)
 - Systems Design Primer [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 - Github student developer pack [https://education.github.com/pack](https://education.github.com/pack)
+- Front End Simplified Learning [https://frontendsimplified.com/](https://frontendsimplified.com/)
 
 
 # Real World Projects for Beginner Programmers

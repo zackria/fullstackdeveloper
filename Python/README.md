@@ -18,6 +18,8 @@ Full Stack Developer Training
 
  - MIT open courseware [https://ocw.mit.edu/](https://ocw.mit.edu/)
 
+ - Python Game Learnign [https://py.checkio.org/](https://py.checkio.org/)
+
 
  - ### Python3 Download [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
