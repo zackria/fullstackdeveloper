@@ -79,6 +79,8 @@ Sessions Planned
 - Systems Design Primer [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 - Github student developer pack [https://education.github.com/pack](https://education.github.com/pack)
 - Front End Simplified Learning [https://frontendsimplified.com/](https://frontendsimplified.com/)
+- Coding Traing [https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+- Abdul Bari Alogrithms [https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 
 
 # Real World Projects for Beginner Programmers
@@ -116,6 +118,7 @@ Sessions Planned
 - Adobe XD [https://www.adobe.com/ca/products/xd.html](https://www.adobe.com/ca/products/xd.html)
 - Balsamiq [https://balsamiq.com/](https://balsamiq.com/)
 - Mock-U-Ups Studio [https://mockuuups.studio/](https://mockuuups.studio/)
+- UX Challenges [https://uxtools.co/challenges](https://uxtools.co/challenges)
 
 # Web Design Tools
 - [https://mycolor.space/](https://mycolor.space/)
