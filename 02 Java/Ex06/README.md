@@ -54,9 +54,9 @@
  Exercise
  - [x] Attend the class
  - [ ] 1) Create, Compile and Execute MultiThreadExample01.java, MultiThreadType1.java, MultiThreadExample02.java, MultiThreadType2.java  
- - [ ] 2) Create, Compile and Execute  
- - [ ] 3) Create, Compile and Execute SyncDemo.java
- - [ ] 4) Create, Compile and Execute  VolatileTest.java, TestVol.java
+ - [ ] 2) Create, Compile and Execute SyncDemo.java
+ - [ ] 3) Create, Compile and Execute VolatileTest.java, TestVol.java
+ - [ ] 4) Create, Compile and Execute  
 
  
 
