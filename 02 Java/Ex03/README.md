@@ -72,14 +72,20 @@
  - [ ] 14) Create, Compile and Execute  ComparisonOperators02.java
  - [ ] 15) Create, Compile and Execute  ComparisonOperators03.java
  - [ ] 16) Create, Compile and Execute  LogicalOperators.java
- - [ ] 17) Create, Compile and Execute  JavaArrays.java
- - [ ] 18) Create, Compile and Execute  UnaryOperator.java
- - [ ] 19) Create, Compile and Execute  IncrementOperator.java
- - [ ] 20) Create, Compile and Execute  StaticExample.java
- - [ ] 21) Create, Compile and Execute  SwapVariable.java
- - [ ] 22) Create, Compile and Execute  EqualsOperator.java
- - [ ] 23) Create, Compile and Execute  ScannerDemo.java
- - [ ] 24) Create, Compile and Execute  Calculator.java
+ - [ ] 17) Create, Compile and Execute  LogicalOperator01.java
+ - [ ] 18) Create, Compile and Execute  LogicalOperator02.java
+ - [ ] 19) Create, Compile and Execute  LogicalOperator03.java
+ - [ ] 20) Create, Compile and Execute  LogicalOperator04.java
+ - [ ] 21) Create, Compile and Execute  LogicalOperator05.java
+ - [ ] 22) Create, Compile and Execute  JavaArrays.java
+ - [ ] 23) Create, Compile and Execute  MultidimensionalArray.java
+ - [ ] 24) Create, Compile and Execute  UnaryOperator.java
+ - [ ] 25) Create, Compile and Execute  IncrementOperator.java
+ - [ ] 26) Create, Compile and Execute  StaticExample.java
+ - [ ] 27) Create, Compile and Execute  SwapVariable.java
+ - [ ] 28) Create, Compile and Execute  EqualsOperator.java
+ - [ ] 29) Create, Compile and Execute  ScannerDemo.java
+ - [ ] 30) Create, Compile and Execute  Calculator.java
 
 ---
 
