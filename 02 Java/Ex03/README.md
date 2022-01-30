@@ -78,6 +78,8 @@
  - [ ] 20) Create, Compile and Execute  StaticExample.java
  - [ ] 21) Create, Compile and Execute  SwapVariable.java
  - [ ] 22) Create, Compile and Execute  EqualsOperator.java
+ - [ ] 23) Create, Compile and Execute  ScannerDemo.java
+ - [ ] 24) Create, Compile and Execute  Calculator.java
 
 ---
 
