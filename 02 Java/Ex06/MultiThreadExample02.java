@@ -6,6 +6,13 @@ public class MultiThreadExample02{
 			MultiThreadType2 myThreadClass = new MultiThreadType2(i);
 			Thread myThread = new Thread(myThreadClass);
 			myThread.start();
+			
+			try{
+				myThread.join();
+				myThread.isAlive();
+			}catch(InterruptedException e){
+
+			}
 		}
 
 	}
