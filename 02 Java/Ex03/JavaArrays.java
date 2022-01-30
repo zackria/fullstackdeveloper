@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class JavaArrays
 {
   public static void main(String[] args) {
@@ -6,8 +8,12 @@ class JavaArrays
      System.out.println(cars[0]);
      System.out.println(cars[1]);
 
+     System.out.println(Arrays.toString(cars));
+
      System.out.println(intArray[0]);
      System.out.println(intArray[1]);
+
+     System.out.println(Arrays.toString(intArray));
 
      String newcars[] = new String[2];
      newcars[0] = "Audi";
@@ -16,11 +22,15 @@ class JavaArrays
      System.out.println(newcars[0]);
      System.out.println(newcars[1]);
 
+     System.out.println(Arrays.toString(newcars));
+
      Integer myArrayInt[] = new Integer[2];
      myArrayInt[0]= 30;
      myArrayInt[1] = 40;
      System.out.println(myArrayInt[0]);
      System.out.println(myArrayInt[1]);
+
+     System.out.println(Arrays.toString(myArrayInt));
 
      System.out.println(myArrayInt.length);
   }
