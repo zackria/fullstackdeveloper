@@ -73,21 +73,22 @@
  - [ ] 15) Create, Compile and Execute  ComparisonOperators01.java
  - [ ] 16) Create, Compile and Execute  ComparisonOperators02.java
  - [ ] 17) Create, Compile and Execute  ComparisonOperators03.java
- - [ ] 18) Create, Compile and Execute  LogicalOperators.java
- - [ ] 19) Create, Compile and Execute  LogicalOperator01.java
- - [ ] 20) Create, Compile and Execute  LogicalOperator02.java
- - [ ] 21) Create, Compile and Execute  LogicalOperator03.java
- - [ ] 22) Create, Compile and Execute  LogicalOperator04.java
- - [ ] 23) Create, Compile and Execute  LogicalOperator05.java
- - [ ] 24) Create, Compile and Execute  JavaArrays.java
- - [ ] 25) Create, Compile and Execute  MultidimensionalArray.java
- - [ ] 26) Create, Compile and Execute  UnaryOperator.java
- - [ ] 27) Create, Compile and Execute  IncrementOperator.java
- - [ ] 28) Create, Compile and Execute  StaticExample.java
- - [ ] 29) Create, Compile and Execute  SwapVariable.java
- - [ ] 30) Create, Compile and Execute  EqualsOperator.java
- - [ ] 31) Create, Compile and Execute  ScannerDemo.java
- - [ ] 32) Create, Compile and Execute  Calculator.java
+ - [ ] 18) Create, Compile and Execute  NumberFormatExample.java
+ - [ ] 19) Create, Compile and Execute  LogicalOperators.java
+ - [ ] 20) Create, Compile and Execute  LogicalOperator01.java
+ - [ ] 21) Create, Compile and Execute  LogicalOperator02.java
+ - [ ] 22) Create, Compile and Execute  LogicalOperator03.java
+ - [ ] 23) Create, Compile and Execute  LogicalOperator04.java
+ - [ ] 24) Create, Compile and Execute  LogicalOperator05.java
+ - [ ] 25) Create, Compile and Execute  JavaArrays.java
+ - [ ] 26) Create, Compile and Execute  MultidimensionalArray.java
+ - [ ] 27) Create, Compile and Execute  UnaryOperator.java
+ - [ ] 28) Create, Compile and Execute  IncrementOperator.java
+ - [ ] 29) Create, Compile and Execute  StaticExample.java
+ - [ ] 30) Create, Compile and Execute  SwapVariable.java
+ - [ ] 31) Create, Compile and Execute  EqualsOperator.java
+ - [ ] 32) Create, Compile and Execute  ScannerDemo.java
+ - [ ] 33) Create, Compile and Execute  Calculator.java
 
 ---
 
@@ -161,6 +162,10 @@
 `javac ComparisonOperators03.java`
 
 `java ComparisonOperators03`
+
+`javac NumberFormatExample.java`
+
+`java NumberFormatExample`
 
 `javac LogicalOperators.java`
 
