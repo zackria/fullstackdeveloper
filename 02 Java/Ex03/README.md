@@ -62,33 +62,34 @@
  - [ ] 4) Create, Compile and Execute  DataTypesMinMax.java
  - [ ] 5) Create, Compile and Execute  StringExample.java
  - [ ] 6) Create, Compile and Execute  EscapeCharacters.java
- - [ ] 7) Create, Compile and Execute  AssignmentOperators.java
- - [ ] 8) Create, Compile and Execute  AssignmentOperators01.java
- - [ ] 9) Create, Compile and Execute  AssignmentOperators02.java
- - [ ] 10) Create, Compile and Execute  AssignmentOperators03.java
- - [ ] 11) Create, Compile and Execute  AssignmentOperators04.java
- - [ ] 12) Create, Compile and Execute  AssignmentOperators05.java
- - [ ] 13) Create, Compile and Execute  ShiftOperators.java
- - [ ] 14) Create, Compile and Execute  ComparisonOperators.java
- - [ ] 15) Create, Compile and Execute  ComparisonOperators01.java
- - [ ] 16) Create, Compile and Execute  ComparisonOperators02.java
- - [ ] 17) Create, Compile and Execute  ComparisonOperators03.java
- - [ ] 18) Create, Compile and Execute  NumberFormatExample.java
- - [ ] 19) Create, Compile and Execute  LogicalOperators.java
- - [ ] 20) Create, Compile and Execute  LogicalOperator01.java
- - [ ] 21) Create, Compile and Execute  LogicalOperator02.java
- - [ ] 22) Create, Compile and Execute  LogicalOperator03.java
- - [ ] 23) Create, Compile and Execute  LogicalOperator04.java
- - [ ] 24) Create, Compile and Execute  LogicalOperator05.java
- - [ ] 25) Create, Compile and Execute  JavaArrays.java
- - [ ] 26) Create, Compile and Execute  MultidimensionalArray.java
- - [ ] 27) Create, Compile and Execute  UnaryOperator.java
- - [ ] 28) Create, Compile and Execute  IncrementOperator.java
- - [ ] 29) Create, Compile and Execute  StaticExample.java
- - [ ] 30) Create, Compile and Execute  SwapVariable.java
- - [ ] 31) Create, Compile and Execute  EqualsOperator.java
- - [ ] 32) Create, Compile and Execute  ScannerDemo.java
- - [ ] 33) Create, Compile and Execute  Calculator.java
+ - [ ] 7) Create, Compile and Execute  CastingExample.java
+ - [ ] 8) Create, Compile and Execute  AssignmentOperators.java
+ - [ ] 9) Create, Compile and Execute  AssignmentOperators01.java
+ - [ ] 10) Create, Compile and Execute  AssignmentOperators02.java
+ - [ ] 11) Create, Compile and Execute  AssignmentOperators03.java
+ - [ ] 12) Create, Compile and Execute  AssignmentOperators04.java
+ - [ ] 13) Create, Compile and Execute  AssignmentOperators05.java
+ - [ ] 14) Create, Compile and Execute  ShiftOperators.java
+ - [ ] 15) Create, Compile and Execute  ComparisonOperators.java
+ - [ ] 16) Create, Compile and Execute  ComparisonOperators01.java
+ - [ ] 17) Create, Compile and Execute  ComparisonOperators02.java
+ - [ ] 18) Create, Compile and Execute  ComparisonOperators03.java
+ - [ ] 19) Create, Compile and Execute  NumberFormatExample.java
+ - [ ] 20) Create, Compile and Execute  LogicalOperators.java
+ - [ ] 21) Create, Compile and Execute  LogicalOperator01.java
+ - [ ] 22) Create, Compile and Execute  LogicalOperator02.java
+ - [ ] 23) Create, Compile and Execute  LogicalOperator03.java
+ - [ ] 24) Create, Compile and Execute  LogicalOperator04.java
+ - [ ] 25) Create, Compile and Execute  LogicalOperator05.java
+ - [ ] 26) Create, Compile and Execute  JavaArrays.java
+ - [ ] 27) Create, Compile and Execute  MultidimensionalArray.java
+ - [ ] 28) Create, Compile and Execute  UnaryOperator.java
+ - [ ] 29) Create, Compile and Execute  IncrementOperator.java
+ - [ ] 30) Create, Compile and Execute  StaticExample.java
+ - [ ] 31) Create, Compile and Execute  SwapVariable.java
+ - [ ] 32) Create, Compile and Execute  EqualsOperator.java
+ - [ ] 33) Create, Compile and Execute  ScannerDemo.java
+ - [ ] 34) Create, Compile and Execute  Calculator.java
 
 ---
 
