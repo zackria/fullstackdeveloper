@@ -68,6 +68,8 @@ export CLASSPATH=${CLASSPATH}:.:`
 `java -version`
 
 
+Note: Homebrew configuration `eval "$(/opt/homebrew/bin/brew shellenv)"`
+
 ---
 
 ## Setting Environment Variables in LinuxOS ($ LinuxOS )
