@@ -76,7 +76,7 @@
  - [ ] 21) Create, Compile and Execute  AccessSpecifier.java, InsidePackageAccess.java, OutsidePackageAccess.java, OutsidePackageChildAccess.java
  - [ ] 22) Create, Compile and Execute  ExceptionsExample.java
  - [ ] 23) Create, Compile and Execute  ThrowableExample.java
- - [ ] 24) Create, Compile and Execute  ThrowableExample.java
+ - [ ] 24) Create, Compile and Execute  Rectangle.java, ShallowCopy.java, DeepCopy.java
  - [ ] 25) Create, Compile and Execute  CloneableExample.java
  - [ ] 26) Create, Compile and Execute  MathPackage.java
 
@@ -108,11 +108,6 @@
 `javac -classpath . StaticPackageAccessAll.java`
 
 `java -cp . StaticPackageAccessAll`
-
-`javac MathPackage.java`
-
-`java MathPackage`
-
 
 `javac LocalVariable.java`
 
@@ -190,6 +185,28 @@
 
 `java OutsidePackageChildAccess`
 
+`javac ExceptionsExample.java`
+
+`java ExceptionsExample`
+
 `javac ThrowableExample.java`
 
 `java ThrowableExample`
+
+`javac Rectangle.java`
+
+`javac ShallowCopy.java`
+
+`javac DeepCopy.java`
+
+`java ShallowCopy`
+
+`java DeepCopy`
+
+`javac CloneableExample.java`
+
+`java CloneableExample`
+
+`javac MathPackage.java`
+
+`java MathPackage`
