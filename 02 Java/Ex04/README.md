@@ -1,12 +1,12 @@
-# Packages 
+# Packages
 
 ### **Prerequisite:** Java Ex01, Ex02, Ex03, Ex04 must be completed
 
 
-- ##### Packages, Access Specifier, Exceptions, Math, Inheritance, Abstract, ExecutionOrder, Variables 
+- ##### Packages, Access Specifier, Exceptions, Math, Inheritance, Abstract, ExecutionOrder, Variables
 
 
- 
+
  ---
 
  [https://atom.io/packages/platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal)
@@ -76,9 +76,10 @@
  - [ ] 21) Create, Compile and Execute  AccessSpecifier.java, InsidePackageAccess.java, OutsidePackageAccess.java, OutsidePackageChildAccess.java
  - [ ] 22) Create, Compile and Execute  ExceptionsExample.java
  - [ ] 23) Create, Compile and Execute  ThrowableExample.java
- - [ ] 24) Create, Compile and Execute  CloneableExample.java 
- - [ ] 25) Create, Compile and Execute  MathPackage.java
- 
+ - [ ] 24) Create, Compile and Execute  ThrowableExample.java
+ - [ ] 25) Create, Compile and Execute  CloneableExample.java
+ - [ ] 26) Create, Compile and Execute  MathPackage.java
+
 
 ---
 
@@ -192,5 +193,3 @@
 `javac ThrowableExample.java`
 
 `java ThrowableExample`
-
-
