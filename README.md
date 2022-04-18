@@ -81,6 +81,7 @@ Sessions Planned
 - Front End Simplified Learning [https://frontendsimplified.com/](https://frontendsimplified.com/)
 - Coding Traing [https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 - Abdul Bari Alogrithms [https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+- 30 Seconds of Code [https://www.30secondsofcode.org/](https://www.30secondsofcode.org/)
 
 
 # Real World Projects for Beginner Programmers
