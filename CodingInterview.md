@@ -95,3 +95,4 @@ Grokking algorithms
 - Mock Interview [https://www.tryexponent.com/](https://www.tryexponent.com/)
 - UX Challenges [https://uxtools.co/challenges](https://uxtools.co/challenges)
 - Dr. Trefor Bazett Mathematics [https://www.youtube.com/channel/UC9rTsvTxJnx1DNrDA3Rqa6A](https://www.youtube.com/channel/UC9rTsvTxJnx1DNrDA3Rqa6A)
+- https://devskill.com/ [https://devskill.com/](https://devskill.com/)
