@@ -11,3 +11,5 @@ Full Stack Developer Training
 - [https://www.w3schools.com/sql/default.asp](https://www.w3schools.com/sql/default.asp)
 
 -[https://livesql.oracle.com/](https://livesql.oracle.com/)
+
+-[https://www.tutorialspoint.com/unix/index.htm](https://www.tutorialspoint.com/unix/index.htm)
