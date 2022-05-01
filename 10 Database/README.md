@@ -7,3 +7,7 @@ Full Stack Developer Training
 - Diagnostic Analytics (Exploring Why certain things happens)
 - Predictive Analytics  (Looking into future)
 - Prescriptive Analytics (Deciding what next best action is)
+
+- [https://www.w3schools.com/sql/default.asp](https://www.w3schools.com/sql/default.asp)
+
+-[https://livesql.oracle.com/](https://livesql.oracle.com/)
