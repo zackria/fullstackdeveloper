@@ -96,3 +96,5 @@ Grokking algorithms
 - UX Challenges [https://uxtools.co/challenges](https://uxtools.co/challenges)
 - Dr. Trefor Bazett Mathematics [https://www.youtube.com/channel/UC9rTsvTxJnx1DNrDA3Rqa6A](https://www.youtube.com/channel/UC9rTsvTxJnx1DNrDA3Rqa6A)
 - https://devskill.com/ [https://devskill.com/](https://devskill.com/)
+- Kamran Ahmed GitHub Repo [https://github.com/kamranahmedse](https://github.com/kamranahmedse)
+- Coding Interview University [https://github.com/jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
