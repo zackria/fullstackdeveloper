@@ -56,7 +56,7 @@
  - [ ] 1) Create, Compile and Execute MultiThreadExample01.java, MultiThreadType1.java, MultiThreadExample02.java, MultiThreadType2.java  
  - [ ] 2) Create, Compile and Execute SyncDemo.java
  - [ ] 3) Create, Compile and Execute VolatileTest.java, TestVol.java
- - [ ] 4) Create, Compile and Execute  
+ - [ ] 4) Create, Compile and Execute  Contact.java, ContactRecord.java ContactsTutorial.java
 
  
 
