@@ -4,6 +4,9 @@
 //#3 Records creates a constructor with parameters and sets the values (canonical constructor)
 //#4 Automatically generates toString, hashCode, equals method
 //#5 Does not generate setter methods. record is immutable by default
+//#10 Records cannot extend another class, implicitly extends java.lang.Record class
+//#11 Records are also implicity final classes cannot be extended by other classes
+//#12 Records can implement a interface 
 public record ContactRecord(String name, int number){
 	//#6 record can have instance methods
 	public String nameInUpperCase(){
