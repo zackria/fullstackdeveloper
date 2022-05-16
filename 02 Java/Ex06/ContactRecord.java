@@ -13,6 +13,14 @@ public record ContactRecord(String name, int number){
 		return name.toUpperCase();
 	}
 
+	//#13 Compact Constructor, Constructor without parenthesis
+	//this.name = name & this.number = number is set automatically
+	public ContactRecord{
+		if(number < 0){
+			throw new IllegalArgumentException("number cannot be negative");
+		}
+	}
+
 	//#7 you can create static method
 	public static void printClassName(){
 		System.out.println("ContactRecord is the class name");
