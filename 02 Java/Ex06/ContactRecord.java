@@ -9,4 +9,16 @@ public record ContactRecord(String name, int number){
 	public String nameInUpperCase(){
 		return name.toUpperCase();
 	}
+
+	//#7 you can create static method
+	public static void printClassName(){
+		System.out.println("ContactRecord is the class name");
+	}
+
+	//#8 you can add public static field
+	public static final String DEFAULT_LOCATION = "Paris, France";
+
+	//#9 you cannot add a not static field 
+	//private String nonStaticField;
+
 }

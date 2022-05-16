@@ -14,5 +14,9 @@ public class ContactsTutorial{
 		System.out.println(contactRecord);
 
 		System.out.println(contactRecord.nameInUpperCase());
+
+		contactRecord.printClassName();
+
+		ContactRecord.printClassName();
 	}
 }
