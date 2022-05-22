@@ -44,3 +44,5 @@
 ```
 
 [https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-running-unit-tests-with-maven/](https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-running-unit-tests-with-maven/)
+
+[https://www.tutorialspoint.com/junit/junit_using_assertion.htm](https://www.tutorialspoint.com/junit/junit_using_assertion.htm)
