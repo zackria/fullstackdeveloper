@@ -20,14 +20,15 @@
 ### Maven Testing Project (add dependency to the pom.xml)
 ## mvn clean test
 
-```<dependencies>
+```
+<dependencies>
 	<dependency>
 		<groupId>org.junit.jupiter</groupId>
 		<artifactId>junit-jupiter</artifactId>
 		<version>5.8.2</version>
 		<scope>test</scope>
 	</dependency>
-  </dependencies>
+</dependencies>
 
   <build>
 	<plugins>
