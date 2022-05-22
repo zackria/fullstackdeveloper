@@ -27,9 +27,9 @@
 		<version>5.8.2</version>
 		<scope>test</scope>
 	</dependency>
-</dependencies>
+  </dependencies>
 
-<build>
+  <build>
 	<plugins>
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
@@ -37,6 +37,6 @@
 			<version>2.22.2</version>
 		</plugin>
 	</plugins>
-</build>
+  </build>`
 
 [https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-running-unit-tests-with-maven/](https://www.petrikainulainen.net/programming/testing/junit-5-tutorial-running-unit-tests-with-maven/)
