@@ -1,7 +1,7 @@
 ### Maven Testing Project
 ## mvn clean test
 
-`<dependencies>
+```xml<dependencies>
 <dependency>
 <groupId>org.junit.jupiter</groupId>
 <artifactId>junit-jupiter</artifactId>
@@ -19,4 +19,4 @@
 </plugin>
 </plugins>
 </build>
-`
+```
