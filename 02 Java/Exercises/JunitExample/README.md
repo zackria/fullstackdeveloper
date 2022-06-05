@@ -1,7 +1,8 @@
 ### Maven Testing Project
 ## mvn clean test
 
-```xml<dependencies>
+```xml
+<dependencies>
 <dependency>
 <groupId>org.junit.jupiter</groupId>
 <artifactId>junit-jupiter</artifactId>
