@@ -5,3 +5,5 @@
 - 3) Create a Java Class name CountOneToThousand04.java to print 1000 to 1 using for loop
 - 4) Create a Java Class name CountOneToThousand05.java to print 1000 to 1 using while loop
 - 5) Create a Java Class name CountOneToThousand06.java to print 1000 to 1 using Do while loop
+- 6) Create a Java Class name PrintEvenNumbersOneToHundred.java to print even numbers from 1 to 100
+- 7) Create a Java Class name PrintOddNumbersOneToHundred.java to print odd numbers from 1 to 100
