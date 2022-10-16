@@ -10,3 +10,6 @@
 - 8) Create a Java Class StringToCharArray01.java, create a String variable vowels and assign value as aeiou, convert the String variable to Character Array as vowelArray, print the Character Array values (use string.charAt(x) method)
 - 9) Create a Java Class StringToCharArray02.java, create a String variable vowels and assign value as aeiou, convert the String variable to Character Array as vowelArray, print the Character Array values (Use string.toCharArray() method)
 - 10) Create a Java Class name PrintPrimeNumbersOneToHundred.java to print prime numbers from 1 to 100
+- 11) Create a Java Class SortArray01.java, create integer array variable and assign values as {78, 34, 1, 3, 90, 34, -1, -4, 6, 55, 20, -65}. Sort the integer array and print the values 
+- 12) Create a Java Class SortArray02.java, create integer array variable and assign values as {78, 34, 1, 3, 90, 34, -1, -4, 6, 55, 20, -65}. Sort the integer array and print the values (Use Arrays.sort() method from java.util.Arrays)
+- 13) Create a Java Class SearchArray01.java 
