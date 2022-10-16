@@ -7,3 +7,5 @@
 - 5) Create a Java Class name CountOneToThousand06.java to print 1000 to 1 using Do while loop
 - 6) Create a Java Class name PrintEvenNumbersOneToHundred.java to print even numbers from 1 to 100
 - 7) Create a Java Class name PrintOddNumbersOneToHundred.java to print odd numbers from 1 to 100
+- 8) Create a Java Class StringToCharArray01.java, create a String variable vowels and assign value as aeiou, convert the String variable to Character Array as vowelArray, print the Character Array values (use string.charAt(x) method)
+- 9) Create a Java Class StringToCharArray02.java, create a String variable vowels and assign value as aeiou, convert the String variable to Character Array as vowelArray, print the Character Array values (Use string.toCharArray() method)
