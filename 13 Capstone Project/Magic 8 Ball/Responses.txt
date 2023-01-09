@@ -22,8 +22,5 @@
       Don't count on it
       My reply is no
       My sources say no
-      <input id="negative4" type="radio" name="answer" required>
-      <div class="answer down">Outlook<br>not so<br>good</div>
-      <input id="negative5" type="radio" name="answer" required>
-      <div class="answer up">Very<br>doubtful</div>
- 
+      Outlook not so good
+      Very doubtful
