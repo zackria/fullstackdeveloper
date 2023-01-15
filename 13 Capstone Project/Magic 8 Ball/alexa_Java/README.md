@@ -22,7 +22,7 @@ Magic 8 Ball Alexa App
 
 ### Step 3 Add the following build in the pom.xml
 
-`    <build>
+    `<build>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
