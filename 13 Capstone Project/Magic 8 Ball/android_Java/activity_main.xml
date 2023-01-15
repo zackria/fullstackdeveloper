@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/titleLayer"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/appLabel"
+            android:textAlignment="center"
+            android:padding="20dp"
+            android:textSize="30dp"
+            android:onClick="updateResponse"
+            android:clickable="true"
+            android:id="@+id/askText"/>
+
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ballLayer"
+        android:layout_below="@id/titleLayer"
+        android:layout_centerHorizontal="true">
+
+
+        <ImageButton android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/comp_icon"
+            android:gravity="left"
+            android:padding="20dp"
+            android:onClick="updateResponse"/>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/responseLayer"
+        android:layout_below="@id/ballLayer"
+        android:layout_centerHorizontal="true">
+
+
+        <TextView
+            android:id="@+id/responses"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left|center_vertical"
+            android:text=""
+            android:textSize="30dp"
+            android:paddingTop="10dp"/>
+
+
+    </LinearLayout>
+
+
+
+
+</RelativeLayout>
