@@ -11,7 +11,7 @@ Magic 8 Ball Alexa App
 
 ### Step 2 Add the following dependency for Alexa SDK
 
-`    <dependencies>
+    `<dependencies>
         <dependency>
             <groupId>com.amazon.alexa</groupId>
             <artifactId>ask-sdk</artifactId>
