@@ -66,7 +66,7 @@ Magic 8 Ball Alexa App
 * Step 7 Start from Scratch
 * Step 8 Create Skill
 * Step 9 Invocations
-* Step 10 Skill Invocation Name as "Magic 8 Ball" & Save Model
+* Step 10 Skill Invocation Name as "magic eight ball helper" & Save Model
 * Step 11 Json editor, use the magic8ball_intent_schema.json & Save Model
 * Step 12 Select EndPoint and copy skill id to MagicEBallStreamHandler.java
 * Step 13 use the following command in the terminal or console to create the maven build
@@ -87,4 +87,4 @@ Magic 8 Ball Alexa App
 * Step 24 Edit Runtime Settings & use
 `com.zackdawood.main.MagicEBallStreamHandler`
 * Step 25 Copy Function ARN from Lamda to Alexa Developer console endpoint & Save Model & Build Model
-* Step 25 Click Test Tab, Skill testing is enabled in: Development 
+* Step 25 Click Test Tab, Skill testing is enabled in: Development
